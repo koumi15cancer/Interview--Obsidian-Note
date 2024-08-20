@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "62a011e38abb5153",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0083eb04a4d9316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23178f74c0ac590f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behaviour Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce4ea5d012c6d568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behaviour Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10cf3adfbf1cec3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lưu y.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "610e6186d2fa6497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98adecd32eec993d",
+    "type": "split",
+    "children": [
+      {
+        "id": "40fe16c7a4625331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5828280ed58f2cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02bcdcefa2fd4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#home/kitchen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "115518c580632128",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1bc0586b4944284e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31ef19f22fdb268",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93550bd3a28bcfa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2a8d54830638731a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fcbd08398bc95c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b84bdb81ee53bd6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "610e6186d2fa6497",
+  "lastOpenFiles": [
+    "Azure DE/17b ARM Based CICD DF 2.md",
+    "Azure DE/17a  ARM Based CICD DF 1.md",
+    "Azure DE/12a. Azure Data Factory Integration Runtimes 1.md",
+    "Interview- mock.md",
+    "1 Year Goals.md",
+    "INTERVIEW-Questions based on resume.md",
+    "Note - Interview Basic.md",
+    "Note - Interview ask.md",
+    "INTERVIEW PREPARE.md",
+    "Introduction to Azure Data Factory.png",
+    "How to Ingest a New Data Source in Azure Data Factory.png",
+    "hackathon_user.md",
+    "Enhancing Spark Pools in Azure Synapse Analytics.png",
+    "Dynamic Pipelines in Azure Data Factory.png",
+    "Draft.md",
+    "Brief Plan - daily expected.md",
+    "Behaviour Interview.md",
+    "Introduction to Delta Lake.png",
+    "Task/22 April.md",
+    "Azure DE/Practice/compare.md",
+    "Azure DE/Practice/T1.md",
+    "Azure DE/Practice",
+    "Lưu y.md",
+    "Azure DE/Topics/Distributed table.md",
+    "Azure DE/Topics/Designing Tables in Azure Synapse Analytics.md",
+    "Azure DE/Topics/Best Practices for Dedicated SQL Pools in Azure Synapse Analytics.md",
+    "Azure DE/Topics/Window Functions.md",
+    "Azure DE/Topics/Temporal Table.md",
+    "Azure DE/Topics",
+    "Project/Streaming Platform/Data Focus 2.md",
+    "Computer Science Fundamental/Indexes 2.md",
+    "Task/24 April 2.md",
+    "Storage Account Overview.md",
+    "NoteGPT_MindMap_1719183355260.png",
+    "Azure DE",
+    "Dynamic CE/Behaviour",
+    "Dynamic CE",
+    "Project/Streaming Platform/Plan",
+    "Project/Crypto Portfolio/Plan",
+    "Project/Streaming Platform/services",
+    "Project/Streaming Platform",
+    "Project/Crypto Portfolio",
+    "Untitled.canvas"
+  ]
+}
