@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behaviour Interview.md",
+                "file": "Interview/Behaviour Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behaviour Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10cf3adfbf1cec3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lưu y.md",
+                "file": "Interview/Behaviour Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md",
+                "file": "Plan and Priority.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1604a2a0da02408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d68ee98dce303488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 6 months.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md",
+                "file": "Schedule 6 months.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md",
+                "file": "Schedule 6 months.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure DE/18a Selective CICD AF ADF Tools 1.md"
+                "file": "Schedule 6 months.md"
               }
             }
           }
@@ -185,50 +197,54 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "610e6186d2fa6497",
+  "active": "d68ee98dce303488",
   "lastOpenFiles": [
+    "Schedule Daily.md",
+    "Schedule 6 months.md",
+    "Plan and Priority.md",
+    "Note - Interview Self.md",
+    "Brief Plan - daily expected.md",
+    "Learning.md",
+    "LC - routine.md",
+    "hackathon_user.md",
+    "Interview/Behaviour Interview.md",
+    "Interview/INTERVIEW-Questions based on resume.md",
+    "Interview/Interview- mock.md",
+    "Interview/Note - Interview ask.md",
+    "Media/Introduction to Azure Data Factory.png",
+    "Interview",
+    "Media/How to Ingest a New Data Source in Azure Data Factory.png",
+    "Media/Dynamic Pipelines in Azure Data Factory.png",
+    "Media/Building a Data Lake and Avoiding Data Swamp.png",
+    "Media/Authentication and Authorization in Azure Data Lake Storage.png",
+    "Media/Using Shared Access Signatures (SAS) Tokens in Azure Data Lake Storage.png",
+    "Media",
+    "Media/Target Companies.md",
+    "Lưu y.md",
+    "nab.md",
+    "Media/Using CI_CD for Azure Data Factory (1).png",
+    "Media/Using Logic Apps to Ingest Data in Azure Data Factory.png",
+    "Azure DE/18a Selective CICD AF ADF Tools 1.md",
     "Azure DE/17b ARM Based CICD DF 2.md",
     "Azure DE/17a  ARM Based CICD DF 1.md",
     "Azure DE/12a. Azure Data Factory Integration Runtimes 1.md",
-    "Interview- mock.md",
     "1 Year Goals.md",
-    "INTERVIEW-Questions based on resume.md",
-    "Note - Interview Basic.md",
-    "Note - Interview ask.md",
-    "INTERVIEW PREPARE.md",
-    "Introduction to Azure Data Factory.png",
-    "How to Ingest a New Data Source in Azure Data Factory.png",
-    "hackathon_user.md",
-    "Enhancing Spark Pools in Azure Synapse Analytics.png",
-    "Dynamic Pipelines in Azure Data Factory.png",
-    "Draft.md",
-    "Brief Plan - daily expected.md",
-    "Behaviour Interview.md",
-    "Introduction to Delta Lake.png",
+    "Interview/Note - Interview Basic.md",
+    "Interview/INTERVIEW PREPARE.md",
+    "Media/Enhancing Spark Pools in Azure Synapse Analytics.png",
+    "Media/Introduction to Delta Lake.png",
     "Task/22 April.md",
     "Azure DE/Practice/compare.md",
     "Azure DE/Practice/T1.md",
     "Azure DE/Practice",
-    "Lưu y.md",
     "Azure DE/Topics/Distributed table.md",
-    "Azure DE/Topics/Designing Tables in Azure Synapse Analytics.md",
-    "Azure DE/Topics/Best Practices for Dedicated SQL Pools in Azure Synapse Analytics.md",
-    "Azure DE/Topics/Window Functions.md",
-    "Azure DE/Topics/Temporal Table.md",
     "Azure DE/Topics",
-    "Project/Streaming Platform/Data Focus 2.md",
-    "Computer Science Fundamental/Indexes 2.md",
-    "Task/24 April 2.md",
-    "Storage Account Overview.md",
-    "NoteGPT_MindMap_1719183355260.png",
     "Azure DE",
     "Dynamic CE/Behaviour",
     "Dynamic CE",
     "Project/Streaming Platform/Plan",
     "Project/Crypto Portfolio/Plan",
     "Project/Streaming Platform/services",
-    "Project/Streaming Platform",
-    "Project/Crypto Portfolio",
     "Untitled.canvas"
   ]
 }

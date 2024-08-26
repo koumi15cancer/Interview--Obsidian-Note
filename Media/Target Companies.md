@@ -1,0 +1,5 @@
+- **Shopee**
+- **ByteDance**/ **Tiktok**
+- Microsoft Viet Nam/ Microsoft Singapore
+- Grab Viet Nam
+- 

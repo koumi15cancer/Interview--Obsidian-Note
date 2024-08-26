@@ -1,3 +1,0 @@
-- **Shopee**
-- **ByteDance**/ **Tiktok**
-- 
