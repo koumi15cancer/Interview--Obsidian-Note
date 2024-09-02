@@ -15,7 +15,7 @@
   - System Design Review (1 hour)
   - Computer Science Fundamentals (2 hours)
 - **Day 7**:
-  - Behavioral Questions (3 hours)
+  - Behavioural Questions (3 hours)
 
 ## Month 3-4: Shift to LeetCode
 ### Daily Schedule
