@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Untitled.md",
+                "file": "Project/Project Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Untitled.md",
+                "file": "Project/Project Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Untitled.md",
+                "file": "Project/Project Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Untitled.md"
+                "file": "Project/Project Fundamentals.md"
               }
             }
           }
@@ -212,7 +212,7 @@
   "active": "632a2f1027dbe9c3",
   "lastOpenFiles": [
     "LC/3SUM.md",
-    "Project/Untitled.md",
+    "Project/Project Fundamentals.md",
     "DSA/Array.md",
     "LC",
     "Schedule 6 months.md",
