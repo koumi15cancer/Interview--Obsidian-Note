@@ -5,8 +5,7 @@ title: Koumi Obsidian Note
 description: >- 
   Koumi Obsidian Note
 baseurl: "" # The subpath of your site, e.g., /blog, or leave it empty for the root
-url: "https://koumi15cancer.github.io/Interview--Obsidian-Note
-" # The full URL to your site
+url: "https://koumi15cancer.github.io/Interview--Obsidian-Note" # The full URL to your site
 
 # Build settings
 markdown: kramdown
@@ -14,6 +13,8 @@ theme: minima # You can choose any Jekyll theme, minima is the default
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-toc # Plugin to generate a Table of Contents
+  - jekyll-redirect-from # Optional: Helps with URL redirection if needed
 
 # Exclude specific files or directories from processing (optional)
 exclude:
@@ -32,13 +33,25 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true # Adds line numbers to code blocks
+  toc_levels: 1..3 # Levels of headers to include in the Table of Contents
 
 # Pagination settings (optional)
 paginate: 10 # Number of posts per page in pagination
 paginate_path: "/page:num/"
 
-# Additional configuration
+# Syntax highlighter
 highlighter: rouge # Use rouge for syntax highlighting in code blocks
+
+# Table of Contents (TOC) settings
+toc:
+  min_level: 2 # Start TOC from H2 headers
+  max_level: 3 # End TOC at H3 headers
+  ordered_list: false # Use an unordered list for the TOC
+  include_title: true # Include a title for the TOC
+  title: "Table of Contents"
 
 # Custom collections (optional)
 collections:
