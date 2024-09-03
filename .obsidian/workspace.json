@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LC/242. Valid Anagram.md",
+                "file": "LC/3. Longest Substring Without Repeating Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.50271224975586
   },
   "right": {
     "id": "1bc0586b4944284e",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LC/242. Valid Anagram.md",
+                "file": "LC/3. Longest Substring Without Repeating Characters.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LC/242. Valid Anagram.md",
+                "file": "LC/3. Longest Substring Without Repeating Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LC/242. Valid Anagram.md"
+                "file": "LC/3. Longest Substring Without Repeating Characters.md"
               }
             }
           }
@@ -221,10 +221,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "eabdb5a4d45d6016",
+  "active": "c5828280ed58f2cd",
   "lastOpenFiles": [
-    "LC/239. Sliding Window Maximum.md",
+    "Gemfile",
+    "index.html",
+    "_config.yml",
+    "LC/125. Valid Palindrome.md",
+    "LC/3. Longest Substring Without Repeating Characters.md",
     "LC/242. Valid Anagram.md",
+    "LC/239. Sliding Window Maximum.md",
     "LC/11. Container with most water.md",
     "LC/15. 3 sum.md",
     "Project/Project Fundamentals.md",
@@ -257,9 +262,6 @@
     "Media/Using Logic Apps to Ingest Data in Azure Data Factory.png",
     "Azure DE/18a Selective CICD AF ADF Tools 1.md",
     "Azure DE/17b ARM Based CICD DF 2.md",
-    "Azure DE/17a  ARM Based CICD DF 1.md",
-    "Azure DE/12a. Azure Data Factory Integration Runtimes 1.md",
-    "1 Year Goals.md",
     "Media/Enhancing Spark Pools in Azure Synapse Analytics.png",
     "Media/Introduction to Delta Lake.png",
     "Azure DE/Practice",
@@ -267,8 +269,6 @@
     "Azure DE",
     "Dynamic CE/Behaviour",
     "Dynamic CE",
-    "Project/Streaming Platform/Plan",
-    "Project/Crypto Portfolio/Plan",
     "Untitled.canvas"
   ]
 }
