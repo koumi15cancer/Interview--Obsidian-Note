@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script src="https://unpkg.com/htmx.org@1.7.0"></script>
 </head>
 <body>
     <header>
@@ -15,27 +16,22 @@
     <main>
         <section>
             <h2>Welcome to {{ site.title }}</h2>
-            <p>This is your site homepage. Use this area to introduce your site and provide some useful links.</p>
+            <p>Select a Markdown file from the list below to view its contents:</p>
 
-            <h3>Recent Posts</h3>
-            <ul>
-                {% for post in site.posts %}
-                <li>
-                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}
-                </li>
-                {% endfor %}
-            </ul>
+            <div id="file-tree">
+                <ul>
+                    {% assign markdown_files = site.pages | where: "extname", ".md" %}
+                    {% for file in markdown_files %}
+                    <li>
+                        <a href="#" hx-get="{{ file.url }}" hx-target="#content" hx-swap="innerHTML">{{ file.name }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
 
-            <h3>All Markdown Files</h3>
-            <ul>
-                {% for page in site.pages %}
-                {% if page.name != 'index.html' %}
-                <li>
-                    <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
-                </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
+            <div id="content" style="margin-top: 20px;">
+                <p>Select a file to view its contents here.</p>
+            </div>
         </section>
     </main>
 
