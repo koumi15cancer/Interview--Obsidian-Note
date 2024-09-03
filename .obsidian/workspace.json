@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goal Until December 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d6f5c68a3d0d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SD/SD questions.md",
+                "file": "docs/LC/424. Longest Repeating Character Replacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goal Until December 2024.md",
+                "file": "docs/LC/424. Longest Repeating Character Replacement.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goal Until December 2024.md",
+                "file": "docs/LC/424. Longest Repeating Character Replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goal Until December 2024.md"
+                "file": "docs/LC/424. Longest Repeating Character Replacement.md"
               }
             }
           }
@@ -162,11 +150,11 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "SD/SD questions.md",
-    "Goal Until December 2024.md",
+    "Goal Until March 2025.md",
+    "docs/SD/SD questions.md",
     "docs/Project/Project Fundamentals.md",
     "docs/Schedule Daily.md",
-    "SD",
+    "docs/SD",
     "docs/Schedule 6 months.md",
     "mkdocs.yml",
     "docs/Learning.md",
