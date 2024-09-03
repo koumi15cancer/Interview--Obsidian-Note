@@ -6,6 +6,45 @@
     <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <script src="https://unpkg.com/htmx.org@1.7.0"></script>
+    <style>
+        /* Additional styles for better rendering */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+        ul li a {
+            text-decoration: none;
+            color: #0366d6;
+        }
+        ul li a:hover {
+            text-decoration: underline;
+        }
+        #file-tree {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+        #content {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -20,10 +59,10 @@
 
             <div id="file-tree">
                 <ul>
-                    {% assign markdown_files = site.pages | where: "extname", ".md" %}
+                    {% assign markdown_files = site.static_files | where: "extname", ".md" %}
                     {% for file in markdown_files %}
                     <li>
-                        <a href="#" hx-get="{{ file.url }}" hx-target="#content" hx-swap="innerHTML">{{ file.name }}</a>
+                        <a href="#" hx-get="{{ file.url }}" hx-target="#content" hx-swap="innerHTML">{{ file.path | relative_url }}</a>
                     </li>
                     {% endfor %}
                 </ul>
