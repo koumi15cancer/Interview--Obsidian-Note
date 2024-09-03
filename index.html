@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to {{ site.title }}</h2>
+            <p>This is your site homepage. Use this area to introduce your site and provide some useful links.</p>
+
+            <h3>Recent Posts</h3>
+            <ul>
+                {% for post in site.posts %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}
+                </li>
+                {% endfor %}
+            </ul>
+
+            <h3>All Markdown Files</h3>
+            <ul>
+                {% for page in site.pages %}
+                {% if page.name != 'index.html' %}
+                <li>
+                    <a href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>
