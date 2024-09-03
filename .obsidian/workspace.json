@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LC/11. Container with most water.md",
+                "file": "LC/239. Sliding Window Maximum.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LC/11. Container with most water.md",
+                "file": "LC/239. Sliding Window Maximum.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LC/11. Container with most water.md",
+                "file": "LC/239. Sliding Window Maximum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LC/11. Container with most water.md"
+                "file": "LC/239. Sliding Window Maximum.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "eabdb5a4d45d6016",
   "lastOpenFiles": [
-    "Project/Project Fundamentals.md",
     "LC/11. Container with most water.md",
+    "LC/239. Sliding Window Maximum.md",
+    "Project/Project Fundamentals.md",
     "LC/3SUM.md",
     "DSA/Array.md",
     "LC",
@@ -259,7 +260,6 @@
     "Azure DE/12a. Azure Data Factory Integration Runtimes 1.md",
     "1 Year Goals.md",
     "Interview/Note - Interview Basic.md",
-    "Interview/INTERVIEW PREPARE.md",
     "Media/Enhancing Spark Pools in Azure Synapse Analytics.png",
     "Media/Introduction to Delta Lake.png",
     "Azure DE/Practice",
