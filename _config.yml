@@ -1,0 +1,48 @@
+# Basic Jekyll configuration for hosting and displaying Markdown files
+
+# Site settings
+title: Koumi Obsidian Note
+description: >- 
+  Koumi Obsidian Note
+baseurl: "" # The subpath of your site, e.g., /blog, or leave it empty for the root
+url: "https://koumi15cancer.github.io/Interview--Obsidian-Note
+" # The full URL to your site
+
+# Build settings
+markdown: kramdown
+theme: minima # You can choose any Jekyll theme, minima is the default
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude specific files or directories from processing (optional)
+exclude:
+  - README.md
+  - LICENSE.txt
+
+# Directory configurations
+source: . # The source directory for your Jekyll site; this is typically the root folder
+destination: ./_site # Where the site will be built
+
+# Permalinks settings (optional)
+permalink: pretty # This will create URLs without the .html extension
+
+# Markdown processing settings
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Pagination settings (optional)
+paginate: 10 # Number of posts per page in pagination
+paginate_path: "/page:num/"
+
+# Additional configuration
+highlighter: rouge # Use rouge for syntax highlighting in code blocks
+
+# Custom collections (optional)
+collections:
+  markdown_files:
+    output: true
+    permalink: /:path/
+    folder: markdown # Use this if you want to organize Markdown files in a specific folder
