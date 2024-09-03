@@ -7,10 +7,167 @@ September:
 			- [Prepare Data for ML APIs on Google Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/631)
 			- [Modernizing Data Lakes and Data Warehouses with Google Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/16/course_templates/54)
 		 - Project: **Designing a Cache System**
+		 - System Design: Tiny URL/ Paste Bin
+	- W2: 
+		- LC: Sorting & Searching, Matrix, Linked List, Queue, Stack
+		- GC: 
+			- [Derive Insights from BigQuery Data | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/623)
+			- [Building Batch Data Pipelines on Google Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/53)
+			- [Arcade (qwiklabs.com)](https://go.qwiklabs.com/arcade)
+		 - Project: Implementing a LRU (Least Recently Used) Cache
+		 - System Design: Design the Twitter timeline and search (or Facebook feed and search)
+	- W3: 
+		- LC: Tree, Graph, Heap, Trie
+		- GC: 
+			- [Build a Data Warehouse with BigQuery | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/624)
+			- [Building Resilient Streaming Analytics Systems on Google Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/52?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D)
+			- [Streaming Analytics into BigQuery | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/752?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=29067645)
+			- [Serverless Data Processing with Dataflow: Foundations | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/218)
+		 - Project: Designing a Thread Pool
+		 - System Design: Design a web crawler
+	- W4: 
+		- LC: Interval, Dynamic Programming, Binary, Math, Geometry
+		- GC: 
+			- [Share Data Using Google Data Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/657?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=29067674)
+		 - Project: 
+			 - **Implementing a Garbage Collector**
+			 - Designing a Filesystem
 		 - System Design: 
+			 - Design Mint.com
+			 - Design the data structures for a social network
+		
 October:
+- W1: 
+		- LC 75 part 1: W5 + W6 + W7 + 4 First W8 ( 38 questions)
+		- Personal Project: Data Platform with GCP, Terraform
+		 - Project: **Implementing a Lock-Free Data Structure**
+		 - System Design: Design a key-value store for a search engine
+- W2: 
+		- LC 75 part 2: 4 Last W8 + W9 + W10 + W11 + W12
+		- Personal Project: Data Platform with GCP, Terraform
+		 - Project: **Designing a Custom Memory Pool**
+		 - System Design: Design Amazon's sales ranking by category feature
+- W3: 
+		- NC150: Array + Hashing + Sliding Window 
+		- Personal Project: Data Platform with GCP, Terraform
+		 - Project: **Designing a Network Packet Router**
+		 - System Design: Design a system that scales to millions of users on AWS
+- W4: 
+		- NC150: Stack + Binary Search + Linked List 
+		- Personal Project: Data Platform with GCP, Terraform
+		 - Project: **Implementing a Message Broker**
+		 - System Design: Twitter / Instagram/ FB
 
 November:
+- W1: 
+		- NC150: Tree + Heap ( Priority Queue)
+		- Personal Project: Crypto Portfolio
+		 - Project: Designing a Memory Allocator
+		 - System Design: Dropbox/ Google Drive
+- W2: 
+		- NC150: BackTracking + Tries + Graph
+		- Personal Project: Crypto Portfolio
+		 - System Design: Messenger / Whatsapp
+- W3: 
+		- NC150: Advance Graph + 1D DP 
+		- Personal Project: Crypto Portfolio
+		 - System Design: Netflix/ Youtube
+- W4: 
+		- NC150: 2D DP + Greedy + Intervals
+		- Personal Project: Crypto Portfolio
+		 - System Design: Typehead Suggestion
 
 December:
-- Professional Data Engineer Google Cloud
+
+- W1: 
+		- LC: Weekly Test, daily coding problem
+		- NC150: Math & Geometry, Bit Manipulation
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design:  Rate Limiter
+- W2: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Yelp
+- W3: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Professional Data Engineer Google Cloud
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Uber/ Google Map
+- W4: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- 
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Ticket master
+		 
+January:
+
+- W1: 
+		- LC: Weekly Test, daily coding problem
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design:  Google Doc
+- W2: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Distributed metric/ logging
+- W3: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Professional Data Engineer Google Cloud
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Zoom/ Skype
+- W4: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- 
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Twitch Live Streaming
+
+February:
+
+- W1: 
+		- LC: Weekly Test, daily coding problem
+		- NC150: Math & Geometry, Bit Manipulation
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design:  Amazon/ Flipkart Ecommerce
+- W2: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Top K leaderboard
+- W3: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Professional Data Engineer Google Cloud
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Recommendation Engine
+- W4: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- 
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: MMO Video Game
+
+March:
+
+- W1: 
+		- LC: Weekly Test, daily coding problem
+		- NC150: Math & Geometry, Bit Manipulation
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design:  Notification Service
+- W2: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Prepare with mock exam/ questions
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Shazam Audio recognition
+- W3: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- GC: Professional Data Engineer Google Cloud
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Distributed Locking 
+- W4: 
+		- LC: Weekly Test, daily coding problem, mock interview
+		- 
+		- Personal Project: Project showcase/ portfolio
+		 - System Design: Job Scheduler
