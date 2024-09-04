@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/5. Longest Palindromic Substring.md",
+                "file": "Goal Until March 2025.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/5. Longest Palindromic Substring.md",
+                "file": "Goal Until March 2025.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/5. Longest Palindromic Substring.md",
+                "file": "Goal Until March 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/5. Longest Palindromic Substring.md"
+                "file": "Goal Until March 2025.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/49. Group Anagrams.md",
+    "docs/LC/1. Two Sum.md",
     "docs/LC/5. Longest Palindromic Substring.md",
+    "docs/LC/49. Group Anagrams.md",
     "docs/LC/76. Minimum Window Substring.md",
     "docs/LC/125. Valid Palindrome.md",
     "docs/LC/239. Sliding Window Maximum.md",
@@ -190,7 +191,6 @@
     "docs/LC/11. Container with most water.md",
     "docs/LC",
     "Project/Project Fundamentals.md",
-    "docs/Project/Streaming Platform/services/Services.md",
     "docs/Project/Streaming Platform/services",
     "docs/Project/Streaming Platform/Plan",
     "docs/Project/Crypto Portfolio/Plan",
