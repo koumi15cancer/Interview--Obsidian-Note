@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/76. Minimum Window Substring.md",
+                "file": "docs/LC/5. Longest Palindromic Substring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/76. Minimum Window Substring.md",
+                "file": "docs/LC/5. Longest Palindromic Substring.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/76. Minimum Window Substring.md",
+                "file": "docs/LC/5. Longest Palindromic Substring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/76. Minimum Window Substring.md"
+                "file": "docs/LC/5. Longest Palindromic Substring.md"
               }
             }
           }
@@ -150,11 +150,13 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
+    "docs/LC/49. Group Anagrams.md",
+    "docs/LC/5. Longest Palindromic Substring.md",
+    "docs/LC/76. Minimum Window Substring.md",
     "docs/LC/125. Valid Palindrome.md",
     "docs/LC/239. Sliding Window Maximum.md",
     "docs/LC/424. Longest Repeating Character Replacement.md",
     "docs/LC/438. Find All Anagrams in a String.md",
-    "docs/LC/76. Minimum Window Substring.md",
     "Goal Until March 2025.md",
     "docs/SD/SD questions.md",
     "docs/Project/Project Fundamentals.md",
@@ -189,8 +191,6 @@
     "docs/LC",
     "Project/Project Fundamentals.md",
     "docs/Project/Streaming Platform/services/Services.md",
-    "docs/Project/Streaming Platform/Plan/Phases.md",
-    "docs/Project/Streaming Platform/Plan/Phase 1.md",
     "docs/Project/Streaming Platform/services",
     "docs/Project/Streaming Platform/Plan",
     "docs/Project/Crypto Portfolio/Plan",
