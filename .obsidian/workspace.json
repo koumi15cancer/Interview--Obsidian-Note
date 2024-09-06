@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md",
+                "file": "Goal Until March 2025.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md",
+                "file": "Goal Until March 2025.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md",
+                "file": "Goal Until March 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md"
+                "file": "Goal Until March 2025.md"
               }
             }
           }
@@ -150,8 +150,12 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/432. All O`one Data Structure.md",
+    "docs/Schedule 6 months.md",
+    "docs/LC/78. Subsets.md",
+    "docs/LC/90. Subsets II.md",
+    "docs/LC/77. Combinations.md",
     "docs/LC/22. Generate Parentheses.md",
+    "docs/LC/432. All O`one Data Structure.md",
     "docs/LC/146. LRU Cache.md",
     "docs/LC/41. First Missing Positive.md",
     "docs/LC/380. Insert Delete GetRandom O(1).md",
@@ -169,14 +173,12 @@
     "docs/Project/Project Fundamentals.md",
     "docs/Schedule Daily.md",
     "docs/SD",
-    "docs/Schedule 6 months.md",
     "mkdocs.yml",
     "docs/Learning.md",
     "docs/Jobs/Tiktok.md",
     "docs/Jobs/Shopee.md",
     "docs/Jobs/ByteDance.md",
     "docs/Jobs",
-    "docs/Brief Plan - daily expected.md",
     "docs/Media/Securely Connecting Azure Databricks to Azure Data Lake Storage Gen2.png",
     "docs/Media/Using Shared Access Signatures (SAS) Tokens in Azure Data Lake Storage.png",
     "docs/Media/Using Logic Apps to Ingest Data in Azure Data Factory.png",
@@ -187,9 +189,7 @@
     "docs/Media/Using Azure Synapse Analytics for Data Ingestion (1).png",
     "docs/Media/Using Azure Role-Based Access Control (RBAC) for Data Lake Security.png",
     "docs/Media/Using Azure Key Vault to Secure Secrets in Azure Data Factory.png",
-    "docs/Media/Target Companies.md",
     "docs/Media",
-    "docs/LC - routine.md",
     "docs/LC",
     "docs/Project/Streaming Platform/services",
     "docs/Project/Streaming Platform/Plan",
