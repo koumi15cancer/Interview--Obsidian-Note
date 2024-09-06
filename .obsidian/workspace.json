@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/41. First Missing Positive.md",
+                "file": "docs/LC/22. Generate Parentheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/41. First Missing Positive.md",
+                "file": "docs/LC/22. Generate Parentheses.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/41. First Missing Positive.md",
+                "file": "docs/LC/22. Generate Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/41. First Missing Positive.md"
+                "file": "docs/LC/22. Generate Parentheses.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/380. Insert Delete GetRandom O(1).md",
+    "docs/LC/432. All O`one Data Structure.md",
+    "docs/LC/22. Generate Parentheses.md",
+    "docs/LC/146. LRU Cache.md",
     "docs/LC/41. First Missing Positive.md",
+    "docs/LC/380. Insert Delete GetRandom O(1).md",
     "docs/LC/49. Group Anagrams.md",
     "Goal Until March 2025.md",
     "docs/LC/383. Ransom Note.md",
@@ -187,9 +190,6 @@
     "docs/Media/Target Companies.md",
     "docs/Media",
     "docs/LC - routine.md",
-    "LC/15. 3 sum.md",
-    "docs/LC/3. Longest Substring Without Repeating Characters.md",
-    "docs/LC/242. Valid Anagram.md",
     "docs/LC",
     "docs/Project/Streaming Platform/services",
     "docs/Project/Streaming Platform/Plan",
