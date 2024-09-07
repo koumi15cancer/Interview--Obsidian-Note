@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goal Until March 2025.md",
+                "file": "docs/LC/78. Subsets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goal Until March 2025.md",
+                "file": "docs/LC/78. Subsets.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goal Until March 2025.md",
+                "file": "docs/LC/78. Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goal Until March 2025.md"
+                "file": "docs/LC/78. Subsets.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
+    "docs/LC/90. Subsets II.md",
+    "Goal Until March 2025.md",
     "docs/Schedule 6 months.md",
     "docs/LC/78. Subsets.md",
-    "docs/LC/90. Subsets II.md",
     "docs/LC/77. Combinations.md",
     "docs/LC/22. Generate Parentheses.md",
     "docs/LC/432. All O`one Data Structure.md",
@@ -160,7 +161,6 @@
     "docs/LC/41. First Missing Positive.md",
     "docs/LC/380. Insert Delete GetRandom O(1).md",
     "docs/LC/49. Group Anagrams.md",
-    "Goal Until March 2025.md",
     "docs/LC/383. Ransom Note.md",
     "docs/LC/1. Two Sum.md",
     "docs/LC/5. Longest Palindromic Substring.md",
