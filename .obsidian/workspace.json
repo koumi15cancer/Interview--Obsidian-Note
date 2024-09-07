@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md",
+                "file": "Goal Until March 2025.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md",
+                "file": "Goal Until March 2025.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md",
+                "file": "Goal Until March 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md"
+                "file": "Goal Until March 2025.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/46. Permutations.md",
     "docs/LC/37. Sudoku Solver.md",
+    "docs/LC/46. Permutations.md",
     "docs/LC/17. Letter Combinations of a Phone Number.md",
     "docs/LC/90. Subsets II.md",
     "docs/LC/78. Subsets.md",
