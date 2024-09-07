@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/78. Subsets.md",
+                "file": "docs/LC/90. Subsets II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/78. Subsets.md",
+                "file": "docs/LC/90. Subsets II.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/78. Subsets.md",
+                "file": "docs/LC/90. Subsets II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/78. Subsets.md"
+                "file": "docs/LC/90. Subsets II.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
+    "docs/LC/78. Subsets.md",
     "docs/LC/90. Subsets II.md",
     "Goal Until March 2025.md",
     "docs/Schedule 6 months.md",
-    "docs/LC/78. Subsets.md",
     "docs/LC/77. Combinations.md",
     "docs/LC/22. Generate Parentheses.md",
     "docs/LC/432. All O`one Data Structure.md",
