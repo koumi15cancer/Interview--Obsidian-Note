@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goal Until March 2025.md",
+                "file": "docs/LC/3. Longest Substring Without Repeating Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goal Until March 2025.md",
+                "file": "docs/LC/3. Longest Substring Without Repeating Characters.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goal Until March 2025.md",
+                "file": "docs/LC/3. Longest Substring Without Repeating Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goal Until March 2025.md"
+                "file": "docs/LC/3. Longest Substring Without Repeating Characters.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/Project/Project Fundamentals.md",
+    "docs/LC/1. Two Sum.md",
     "Goal Until March 2025.md",
+    "docs/Project/Project Fundamentals.md",
     "docs/LC/37. Sudoku Solver.md",
     "docs/LC/46. Permutations.md",
     "docs/LC/17. Letter Combinations of a Phone Number.md",
@@ -166,7 +167,6 @@
     "docs/LC/380. Insert Delete GetRandom O(1).md",
     "docs/LC/49. Group Anagrams.md",
     "docs/LC/383. Ransom Note.md",
-    "docs/LC/1. Two Sum.md",
     "docs/LC/5. Longest Palindromic Substring.md",
     "docs/LC/76. Minimum Window Substring.md",
     "docs/LC/125. Valid Palindrome.md",
