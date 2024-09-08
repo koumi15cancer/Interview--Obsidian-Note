@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/17. Letter Combinations of a Phone Number.md",
+                "file": "docs/LC/22. Generate Parentheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/17. Letter Combinations of a Phone Number.md",
+                "file": "docs/LC/22. Generate Parentheses.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/17. Letter Combinations of a Phone Number.md",
+                "file": "docs/LC/22. Generate Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/17. Letter Combinations of a Phone Number.md"
+                "file": "docs/LC/22. Generate Parentheses.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
+    "docs/LC/17. Letter Combinations of a Phone Number.md",
     "docs/LC/15. 3 sum.md",
     "docs/LC/11. Container with most water.md",
     "docs/LC/5. Longest Palindromic Substring.md",
@@ -159,7 +160,6 @@
     "docs/Project/Project Fundamentals.md",
     "docs/LC/37. Sudoku Solver.md",
     "docs/LC/46. Permutations.md",
-    "docs/LC/17. Letter Combinations of a Phone Number.md",
     "docs/LC/90. Subsets II.md",
     "docs/LC/78. Subsets.md",
     "docs/Schedule 6 months.md",
