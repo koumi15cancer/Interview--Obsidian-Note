@@ -1,9 +1,8 @@
 September:
 	- W1: 
 		- LC: Array, String, Hash Table, Recursion
-		 - Project: 
-			 - **Designing a Cache System**
-			 - **Design data platform for personal finance, behaviour, activity**
+		 - System Design Learning Component: 
+			 - [System Design: The complete course (hashnode.dev)](https://kps.hashnode.dev/system-design-the-complete-course?ref=dailydev#heading-caching)
 		 - System Design: Tiny URL/ Paste Bin
 	- W2: 
 		- LC: Sorting & Searching, Matrix, Linked List, Queue, Stack
