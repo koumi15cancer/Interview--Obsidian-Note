@@ -148,8 +148,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d6f5cec72794bc70",
+  "active": "c5828280ed58f2cd",
   "lastOpenFiles": [
+    "docs/Template LC approach",
     "docs/LC/125. Valid Palindrome.md",
     "docs/LC/438. Find All Anagrams in a String.md",
     "docs/LC/432. All O`one Data Structure.md",
@@ -175,7 +176,6 @@
     "docs/LC/3. Longest Substring Without Repeating Characters.md",
     "docs/LC/1. Two Sum.md",
     "Goal Until March 2025.md",
-    "docs/Project/Project Fundamentals.md",
     "docs/SD",
     "mkdocs.yml",
     "docs/Jobs",
