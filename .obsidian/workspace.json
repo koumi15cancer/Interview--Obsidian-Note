@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md",
+                "file": "docs/LC/37. Sudoku Solver.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md",
+                "file": "docs/LC/37. Sudoku Solver.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md",
+                "file": "docs/LC/37. Sudoku Solver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/22. Generate Parentheses.md"
+                "file": "docs/LC/37. Sudoku Solver.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
+    "docs/LC/22. Generate Parentheses.md",
     "docs/LC/17. Letter Combinations of a Phone Number.md",
     "docs/LC/15. 3 sum.md",
     "docs/LC/11. Container with most water.md",
@@ -164,7 +165,6 @@
     "docs/LC/78. Subsets.md",
     "docs/Schedule 6 months.md",
     "docs/LC/77. Combinations.md",
-    "docs/LC/22. Generate Parentheses.md",
     "docs/LC/432. All O`one Data Structure.md",
     "docs/LC/146. LRU Cache.md",
     "docs/LC/41. First Missing Positive.md",
