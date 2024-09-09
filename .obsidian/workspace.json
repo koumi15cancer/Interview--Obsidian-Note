@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md",
+                "file": "docs/LC/438. Find All Anagrams in a String.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md",
+                "file": "docs/LC/438. Find All Anagrams in a String.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md",
+                "file": "docs/LC/438. Find All Anagrams in a String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/37. Sudoku Solver.md"
+                "file": "docs/LC/438. Find All Anagrams in a String.md"
               }
             }
           }
@@ -150,6 +150,23 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
+    "docs/LC/125. Valid Palindrome.md",
+    "docs/LC/438. Find All Anagrams in a String.md",
+    "docs/LC/432. All O`one Data Structure.md",
+    "docs/LC/424. Longest Repeating Character Replacement.md",
+    "docs/LC/383. Ransom Note.md",
+    "docs/LC/380. Insert Delete GetRandom O(1).md",
+    "docs/LC/242. Valid Anagram.md",
+    "docs/LC/239. Sliding Window Maximum.md",
+    "docs/LC/146. LRU Cache.md",
+    "docs/LC/90. Subsets II.md",
+    "docs/LC/78. Subsets.md",
+    "docs/LC/77. Combinations.md",
+    "docs/LC/76. Minimum Window Substring.md",
+    "docs/LC/49. Group Anagrams.md",
+    "docs/LC/46. Permutations.md",
+    "docs/LC/41. First Missing Positive.md",
+    "docs/LC/37. Sudoku Solver.md",
     "docs/LC/22. Generate Parentheses.md",
     "docs/LC/17. Letter Combinations of a Phone Number.md",
     "docs/LC/15. 3 sum.md",
@@ -159,23 +176,6 @@
     "docs/LC/1. Two Sum.md",
     "Goal Until March 2025.md",
     "docs/Project/Project Fundamentals.md",
-    "docs/LC/37. Sudoku Solver.md",
-    "docs/LC/46. Permutations.md",
-    "docs/LC/90. Subsets II.md",
-    "docs/LC/78. Subsets.md",
-    "docs/Schedule 6 months.md",
-    "docs/LC/77. Combinations.md",
-    "docs/LC/432. All O`one Data Structure.md",
-    "docs/LC/146. LRU Cache.md",
-    "docs/LC/41. First Missing Positive.md",
-    "docs/LC/380. Insert Delete GetRandom O(1).md",
-    "docs/LC/49. Group Anagrams.md",
-    "docs/LC/383. Ransom Note.md",
-    "docs/LC/76. Minimum Window Substring.md",
-    "docs/LC/125. Valid Palindrome.md",
-    "docs/LC/239. Sliding Window Maximum.md",
-    "docs/LC/424. Longest Repeating Character Replacement.md",
-    "docs/LC/438. Find All Anagrams in a String.md",
     "docs/SD",
     "mkdocs.yml",
     "docs/Jobs",
