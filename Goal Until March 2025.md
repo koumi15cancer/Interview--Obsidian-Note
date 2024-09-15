@@ -33,29 +33,29 @@ September:
 October:
 	- W1: 
 		- LC 75 part 1: W5 + W6 + W7 + 4 First W8 ( 38 questions)
-		-  GC:  [Arcade (qwiklabs.com)](https://go.qwiklabs.com/arcade)
+		-  GC: 
+			- [Build a Data Warehouse with BigQuery | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/624)
+			- [Building Resilient Streaming Analytics Systems on Google Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/52?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D)
 		- Personal Project: Data Platform with GCP, Terraform
 		 - Project: **Implementing a Lock-Free Data Structure**
 		 - System Design: Design a key-value store for a search engine
 	- W2: 
 		- LC 75 part 2: 4 Last W8 + W9 + W10 + W11 + W12
 		- GC: 
-			- [Build a Data Warehouse with BigQuery | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/624)
-			- [Building Resilient Streaming Analytics Systems on Google Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/52?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D)
+			- [Streaming Analytics into BigQuery | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/752?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=29067645)
+			- [Serverless Data Processing with Dataflow: Foundations | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/218)
 		- Personal Project: Data Platform with GCP, Terraform
 		 - Project: **Designing a Custom Memory Pool**
 		 - System Design: Design Amazon's sales ranking by category feature
 	- W3: 
 		- NC150: Array + Hashing + Sliding Window 
 		- GC:
-			- [Streaming Analytics into BigQuery | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/752?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=29067645)
-			- [Serverless Data Processing with Dataflow: Foundations | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/218)
+			-[Share Data Using Google Data Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/657?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=29067674)
 		- Personal Project: Data Platform with GCP, Terraform
 		 - Project: **Designing a Network Packet Router**
 		 - System Design: Design a system that scales to millions of users on AWS
 	- W4: 
 		- NC150: Stack + Binary Search + Linked List 
-		- GC: [Share Data Using Google Data Cloud | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/657?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=29067674)
 		- Personal Project: Data Platform with GCP, Terraform
 		 - Project: **Implementing a Message Broker**
 		 - System Design: Twitter / Instagram/ FB
