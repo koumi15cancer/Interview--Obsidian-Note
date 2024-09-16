@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/4. Median of Two Sorted Arrays.md",
+                "file": "docs/LC/54. Spiral Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#home/kitchen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/4. Median of Two Sorted Arrays.md",
+                "file": "docs/LC/54. Spiral Matrix.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/4. Median of Two Sorted Arrays.md",
+                "file": "docs/LC/54. Spiral Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/4. Median of Two Sorted Arrays.md"
+                "file": "docs/LC/54. Spiral Matrix.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "Goal Until March 2025.md",
+    "docs/LC/73. Set Matrix Zeroes.md",
+    "docs/LC/54. Spiral Matrix.md",
     "docs/LC/4. Median of Two Sorted Arrays.md",
+    "Goal Until March 2025.md",
     "docs/LC/215. Kth Largest Element in an Array.md",
     "docs/LC/74. Search a 2D Matrix.md",
     "docs/LC/378. Kth Smallest Element in a Sorted Matrix.md",
@@ -175,8 +177,6 @@
     "docs/LC/46. Permutations.md",
     "docs/LC/41. First Missing Positive.md",
     "docs/LC/37. Sudoku Solver.md",
-    "docs/LC/22. Generate Parentheses.md",
-    "docs/LC/17. Letter Combinations of a Phone Number.md",
     "docs/SD",
     "mkdocs.yml",
     "docs/Jobs",
