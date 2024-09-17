@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/54. Spiral Matrix.md",
+                "file": "Goal Until March 2025.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/54. Spiral Matrix.md",
+                "file": "Goal Until March 2025.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/54. Spiral Matrix.md",
+                "file": "Goal Until March 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/54. Spiral Matrix.md"
+                "file": "Goal Until March 2025.md"
               }
             }
           }
@@ -150,8 +150,15 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/73. Set Matrix Zeroes.md",
+    "docs/LC/143. Reorder List.md",
+    "docs/LC/19. Remove Nth Node From End of List.md",
+    "docs/LC/21. Merge Two Sorted Lists.md",
+    "docs/LC/141. Linked List Cycle.md",
+    "docs/LC/206. Reverse Linked List.md",
+    "docs/LC/36. Valid Sudoku.md",
+    "docs/LC/48. Rotate Image.md",
     "docs/LC/54. Spiral Matrix.md",
+    "docs/LC/73. Set Matrix Zeroes.md",
     "docs/LC/4. Median of Two Sorted Arrays.md",
     "Goal Until March 2025.md",
     "docs/LC/215. Kth Largest Element in an Array.md",
@@ -170,13 +177,6 @@
     "docs/LC/239. Sliding Window Maximum.md",
     "docs/LC/146. LRU Cache.md",
     "docs/LC/90. Subsets II.md",
-    "docs/LC/78. Subsets.md",
-    "docs/LC/77. Combinations.md",
-    "docs/LC/76. Minimum Window Substring.md",
-    "docs/LC/49. Group Anagrams.md",
-    "docs/LC/46. Permutations.md",
-    "docs/LC/41. First Missing Positive.md",
-    "docs/LC/37. Sudoku Solver.md",
     "docs/SD",
     "mkdocs.yml",
     "docs/Jobs",
