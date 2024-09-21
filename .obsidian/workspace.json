@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/155. Min Stack.md",
+                "file": "docs/LC/735. Asteroid Collision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/155. Min Stack.md",
+                "file": "docs/LC/735. Asteroid Collision.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/155. Min Stack.md",
+                "file": "docs/LC/735. Asteroid Collision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/155. Min Stack.md"
+                "file": "docs/LC/735. Asteroid Collision.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/20. Valid Parentheses.md",
     "docs/LC/155. Min Stack.md",
+    "docs/LC/735. Asteroid Collision.md",
+    "docs/LC/20. Valid Parentheses.md",
     "docs/LC/622. Design Circular Queue.md",
     "docs/LC/232. Implement Queue using Stacks.md",
     "docs/LC/225. Implement Stack using Queues.md",
@@ -176,7 +177,6 @@
     "docs/LC/125. Valid Palindrome.md",
     "docs/LC/432. All O`one Data Structure.md",
     "docs/LC/424. Longest Repeating Character Replacement.md",
-    "docs/LC/383. Ransom Note.md",
     "docs/SD",
     "mkdocs.yml",
     "docs/Jobs",
