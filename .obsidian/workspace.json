@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/227. Basic Calculator II.md",
+                "file": "docs/LC/84. Largest Rectangle in Histogram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/227. Basic Calculator II.md",
+                "file": "docs/LC/84. Largest Rectangle in Histogram.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/227. Basic Calculator II.md",
+                "file": "docs/LC/84. Largest Rectangle in Histogram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/227. Basic Calculator II.md"
+                "file": "docs/LC/84. Largest Rectangle in Histogram.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/224. Basic Calculator.md",
+    "docs/LC/42. Trapping Rain Water.md",
+    "docs/LC/84. Largest Rectangle in Histogram.md",
+    "docs/LC/739. Daily Temperatures.md",
     "docs/LC/227. Basic Calculator II.md",
+    "docs/LC/224. Basic Calculator.md",
     "docs/LC/150. Evaluate Reverse Polish Notation.md",
     "docs/LC/155. Min Stack.md",
     "docs/LC/735. Asteroid Collision.md",
@@ -173,9 +176,6 @@
     "docs/LC/215. Kth Largest Element in an Array.md",
     "docs/LC/74. Search a 2D Matrix.md",
     "docs/LC/378. Kth Smallest Element in a Sorted Matrix.md",
-    "docs/LC/33. Search in Rotated Sorted Array.md",
-    "docs/LC/704. Binary Search.md",
-    "docs/LC/438. Find All Anagrams in a String.md",
     "docs/Template LC approach",
     "docs/SD",
     "mkdocs.yml",
