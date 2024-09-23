@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/735. Asteroid Collision.md",
+                "file": "docs/LC/224. Basic Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/735. Asteroid Collision.md",
+                "file": "docs/LC/224. Basic Calculator.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/735. Asteroid Collision.md",
+                "file": "docs/LC/224. Basic Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/735. Asteroid Collision.md"
+                "file": "docs/LC/224. Basic Calculator.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
+    "docs/LC/150. Evaluate Reverse Polish Notation.md",
+    "docs/LC/224. Basic Calculator.md",
     "docs/LC/155. Min Stack.md",
     "docs/LC/735. Asteroid Collision.md",
     "docs/LC/20. Valid Parentheses.md",
@@ -175,8 +177,6 @@
     "docs/LC/438. Find All Anagrams in a String.md",
     "docs/Template LC approach",
     "docs/LC/125. Valid Palindrome.md",
-    "docs/LC/432. All O`one Data Structure.md",
-    "docs/LC/424. Longest Repeating Character Replacement.md",
     "docs/SD",
     "mkdocs.yml",
     "docs/Jobs",
