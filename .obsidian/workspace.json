@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/224. Basic Calculator.md",
+                "file": "docs/LC/227. Basic Calculator II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/224. Basic Calculator.md",
+                "file": "docs/LC/227. Basic Calculator II.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/224. Basic Calculator.md",
+                "file": "docs/LC/227. Basic Calculator II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/224. Basic Calculator.md"
+                "file": "docs/LC/227. Basic Calculator II.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/150. Evaluate Reverse Polish Notation.md",
     "docs/LC/224. Basic Calculator.md",
+    "docs/LC/227. Basic Calculator II.md",
+    "docs/LC/150. Evaluate Reverse Polish Notation.md",
     "docs/LC/155. Min Stack.md",
     "docs/LC/735. Asteroid Collision.md",
     "docs/LC/20. Valid Parentheses.md",
@@ -176,7 +177,6 @@
     "docs/LC/704. Binary Search.md",
     "docs/LC/438. Find All Anagrams in a String.md",
     "docs/Template LC approach",
-    "docs/LC/125. Valid Palindrome.md",
     "docs/SD",
     "mkdocs.yml",
     "docs/Jobs",
