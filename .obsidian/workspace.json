@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/417. Pacific Atlantic Water Flow.md",
+                "file": "docs/LC/208. Implement Trie (Prefix Tree).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/417. Pacific Atlantic Water Flow.md",
+                "file": "docs/LC/208. Implement Trie (Prefix Tree).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/417. Pacific Atlantic Water Flow.md",
+                "file": "docs/LC/208. Implement Trie (Prefix Tree).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/417. Pacific Atlantic Water Flow.md"
+                "file": "docs/LC/208. Implement Trie (Prefix Tree).md"
               }
             }
           }
@@ -150,8 +150,15 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/133. Clone Graph.md",
+    "docs/LC/295. Find Median from Data Stream.md",
+    "docs/LC/208. Implement Trie (Prefix Tree).md",
+    "docs/LC/347. Top K Frequent Elements.md",
+    "docs/LC/973. K Closest Points to Origin.md",
+    "docs/LC/23. Merge k Sorted Lists.md",
+    "docs/LC/1. Two Sum.md",
+    "docs/LC/207. Course Schedule.md",
     "docs/LC/417. Pacific Atlantic Water Flow.md",
+    "docs/LC/133. Clone Graph.md",
     "docs/LC/994. Rotting Oranges.md",
     "docs/LC/542. 01 Matrix.md",
     "docs/LC/733. Flood Fill.md",
@@ -169,13 +176,6 @@
     "docs/LC/100. Same Tree.md",
     "docs/LC/226. Invert Binary Tree.md",
     "docs/LC/104. Maximum Depth of Binary Tree.md",
-    "docs/LC/84. Largest Rectangle in Histogram.md",
-    "docs/LC/42. Trapping Rain Water.md",
-    "docs/LC/739. Daily Temperatures.md",
-    "docs/LC/227. Basic Calculator II.md",
-    "docs/LC/224. Basic Calculator.md",
-    "docs/LC/150. Evaluate Reverse Polish Notation.md",
-    "docs/LC/155. Min Stack.md",
     "docs/Template LC approach",
     "docs/SD",
     "mkdocs.yml",
