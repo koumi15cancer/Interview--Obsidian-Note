@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/371. Sum of Two Integers.md",
+                "file": "docs/LC/268. Missing Number.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/371. Sum of Two Integers.md",
+                "file": "docs/LC/268. Missing Number.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/371. Sum of Two Integers.md",
+                "file": "docs/LC/268. Missing Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/371. Sum of Two Integers.md"
+                "file": "docs/LC/268. Missing Number.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/435. Non-overlapping Intervals.md",
+    "docs/LC/338. Counting Bits.md",
+    "docs/LC/268. Missing Number.md",
+    "docs/LC/191. Number of 1 Bits.md",
     "docs/LC/371. Sum of Two Integers.md",
+    "docs/LC/435. Non-overlapping Intervals.md",
     "docs/LC/57. Insert Interval.md",
     "docs/LC/56. Merge Intervals.md",
     "docs/LC/212. Word Search II.md",
@@ -174,9 +177,6 @@
     "docs/LC/230. Kth Smallest Element in a BST.md",
     "docs/LC/98. Validate Binary Search Tree.md",
     "docs/LC/297. Serialize and Deserialize Binary Tree.md",
-    "docs/LC/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "docs/LC/572. Subtree of Another Tree.md",
-    "docs/LC/199. Binary Tree Right Side View.md",
     "docs/Template LC approach",
     "docs/SD",
     "mkdocs.yml",
