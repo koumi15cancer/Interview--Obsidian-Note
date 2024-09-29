@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/211. Design Add and Search Words Data Structure.md",
+                "file": "docs/LC/212. Word Search II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/211. Design Add and Search Words Data Structure.md",
+                "file": "docs/LC/212. Word Search II.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/211. Design Add and Search Words Data Structure.md",
+                "file": "docs/LC/212. Word Search II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/211. Design Add and Search Words Data Structure.md"
+                "file": "docs/LC/212. Word Search II.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/208. Implement Trie (Prefix Tree).md",
+    "docs/LC/139. Word Break.md",
+    "docs/LC/212. Word Search II.md",
     "docs/LC/211. Design Add and Search Words Data Structure.md",
+    "docs/LC/208. Implement Trie (Prefix Tree).md",
     "docs/LC/Untitled",
     "docs/LC/295. Find Median from Data Stream.md",
     "docs/LC/347. Top K Frequent Elements.md",
@@ -175,8 +177,6 @@
     "docs/LC/235. Lowest Common Ancestor of a Binary Search Tree.md",
     "docs/LC/102. Binary Tree Level Order Traversal.md",
     "docs/LC/124. Binary Tree Maximum Path Sum.md",
-    "docs/LC/100. Same Tree.md",
-    "docs/LC/226. Invert Binary Tree.md",
     "docs/Template LC approach",
     "docs/SD",
     "mkdocs.yml",
