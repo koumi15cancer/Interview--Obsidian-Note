@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/268. Missing Number.md",
+                "file": "docs/LC/273. Integer to English Words.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/268. Missing Number.md",
+                "file": "docs/LC/273. Integer to English Words.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/268. Missing Number.md",
+                "file": "docs/LC/273. Integer to English Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/268. Missing Number.md"
+                "file": "docs/LC/273. Integer to English Words.md"
               }
             }
           }
@@ -150,8 +150,13 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/338. Counting Bits.md",
+    "docs/LC/69. Sqrt(x).md",
+    "docs/LC/273. Integer to English Words.md",
+    "docs/LC/50. Pow(x, n).md",
+    "docs/LC/136. Single Number.md",
+    "docs/LC/190. Reverse Bits.md",
     "docs/LC/268. Missing Number.md",
+    "docs/LC/338. Counting Bits.md",
     "docs/LC/191. Number of 1 Bits.md",
     "docs/LC/371. Sum of Two Integers.md",
     "docs/LC/435. Non-overlapping Intervals.md",
@@ -172,11 +177,6 @@
     "docs/LC/133. Clone Graph.md",
     "docs/LC/994. Rotting Oranges.md",
     "docs/LC/542. 01 Matrix.md",
-    "docs/LC/733. Flood Fill.md",
-    "docs/LC/200. Number of Islands.md",
-    "docs/LC/230. Kth Smallest Element in a BST.md",
-    "docs/LC/98. Validate Binary Search Tree.md",
-    "docs/LC/297. Serialize and Deserialize Binary Tree.md",
     "docs/Template LC approach",
     "docs/SD",
     "mkdocs.yml",
