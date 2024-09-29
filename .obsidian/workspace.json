@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/208. Implement Trie (Prefix Tree).md",
+                "file": "docs/LC/211. Design Add and Search Words Data Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/208. Implement Trie (Prefix Tree).md",
+                "file": "docs/LC/211. Design Add and Search Words Data Structure.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/208. Implement Trie (Prefix Tree).md",
+                "file": "docs/LC/211. Design Add and Search Words Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/208. Implement Trie (Prefix Tree).md"
+                "file": "docs/LC/211. Design Add and Search Words Data Structure.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/295. Find Median from Data Stream.md",
     "docs/LC/208. Implement Trie (Prefix Tree).md",
+    "docs/LC/211. Design Add and Search Words Data Structure.md",
+    "docs/LC/Untitled",
+    "docs/LC/295. Find Median from Data Stream.md",
     "docs/LC/347. Top K Frequent Elements.md",
     "docs/LC/973. K Closest Points to Origin.md",
     "docs/LC/23. Merge k Sorted Lists.md",
@@ -175,7 +177,6 @@
     "docs/LC/124. Binary Tree Maximum Path Sum.md",
     "docs/LC/100. Same Tree.md",
     "docs/LC/226. Invert Binary Tree.md",
-    "docs/LC/104. Maximum Depth of Binary Tree.md",
     "docs/Template LC approach",
     "docs/SD",
     "mkdocs.yml",
@@ -195,7 +196,6 @@
     "docs/Project/Streaming Platform/services",
     "docs/Project/Streaming Platform/Plan",
     "docs/Project/Crypto Portfolio/Plan",
-    "docs/Project/Streaming Platform",
     "Untitled.canvas"
   ]
 }
