@@ -1,0 +1,5 @@
+- **Divide and Conquer**
+- **Backtracking**
+- **Dynamic Programming (Memoization)**
+- **Tree Traversals**
+- **Depth-First Search (DFS) on Graphs**

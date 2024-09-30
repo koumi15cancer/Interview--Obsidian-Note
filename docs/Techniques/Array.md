@@ -1,0 +1,5 @@
+- **Two Pointers**
+- **Sliding Window**
+- **Binary Search**
+- **Prefix Sum**
+- **Kadane’s Algorithm (for Maximum Subarray)**

@@ -1,0 +1,5 @@
+- **Merge Sort / Quick Sort / Heap Sort**
+- **Binary Search**
+- **Two Pointers**
+- **Counting Sort / Radix Sort**
+- **Sorting by Custom Comparator**

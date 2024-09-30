@@ -1,0 +1,4 @@
+- **Hash Map for Counting Frequencies**
+- **Hash Map for Storing Prefix or Subarray Sum**
+- **Two Sum (using Hash Map)**
+- **Handling Collisions (Chaining or Probing)**

@@ -1,0 +1,6 @@
+- **Row and Column Traversal**
+- **DFS/BFS for Connected Components**
+- **Dynamic Programming for Matrix Paths**
+- **Spiral Traversal**
+- **Diagonal or Zigzag Traversal**
+-

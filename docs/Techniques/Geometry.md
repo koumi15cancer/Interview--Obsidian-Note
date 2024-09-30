@@ -1,0 +1,5 @@
+- **Line Intersection and Overlap Calculation**
+- **Distance Calculation (Euclidean, Manhattan)**
+- **Area / Perimeter Formulas for Shapes**
+- **Convex Hull Algorithms for Finding Enveloping Shapes**
+- **Vector Math (Dot Product, Cross Product) for Angle Calculation**

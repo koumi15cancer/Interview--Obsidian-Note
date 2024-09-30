@@ -1,0 +1,6 @@
+- **Modular Arithmetic** (handling large numbers)
+- **Greatest Common Divisor (GCD) / Least Common Multiple (LCM)**
+- **Prime Factorization and Sieve of Eratosthenes**
+- **Combinatorics (nCr, permutations)**
+- **Probability and Expectation Calculations**
+- 

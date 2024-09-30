@@ -1,0 +1,5 @@
+- **Two Pointers (for Cycle Detection or Finding Middle Node)**
+- **Reversing a Linked List**
+- **Merge Two Sorted Linked Lists**
+- **Slow and Fast Pointer Techniques**
+- **Pointer Manipulation for In-Place Modifications**

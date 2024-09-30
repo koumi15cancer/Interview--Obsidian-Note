@@ -1,0 +1,5 @@
+- **Top-Down (Recursion + Memoization)**
+- **Bottom-Up (Iterative)**
+- **State Transition and Recurrence Relations**
+- **1D / 2D DP Arrays for Storing Results**
+- **Optimization Problems (Knapsack, Subset Sum, etc.)**
