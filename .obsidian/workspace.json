@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/273. Integer to English Words.md",
+                "file": "docs/LC/223. Rectangle Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/273. Integer to English Words.md",
+                "file": "docs/LC/223. Rectangle Area.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/273. Integer to English Words.md",
+                "file": "docs/LC/223. Rectangle Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/273. Integer to English Words.md"
+                "file": "docs/LC/223. Rectangle Area.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "d6f5cec72794bc70",
   "lastOpenFiles": [
-    "docs/LC/69. Sqrt(x).md",
+    "docs/LC/836. Rectangle Overlap.md",
+    "docs/LC/223. Rectangle Area.md",
     "docs/LC/273. Integer to English Words.md",
+    "docs/LC/69. Sqrt(x).md",
     "docs/LC/50. Pow(x, n).md",
     "docs/LC/136. Single Number.md",
     "docs/LC/190. Reverse Bits.md",
@@ -175,8 +177,6 @@
     "docs/LC/207. Course Schedule.md",
     "docs/LC/417. Pacific Atlantic Water Flow.md",
     "docs/LC/133. Clone Graph.md",
-    "docs/LC/994. Rotting Oranges.md",
-    "docs/LC/542. 01 Matrix.md",
     "docs/Template LC approach",
     "docs/SD",
     "mkdocs.yml",
