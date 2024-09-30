@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Techniques/1. Priority.md",
+                "file": "docs/Technique/Two pointer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bd306eb3d470e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Technique/Two pointer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Techniques/1. Priority.md",
+                "file": "docs/Technique/Two pointer.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Techniques/1. Priority.md",
+                "file": "docs/Technique/Two pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Techniques/1. Priority.md"
+                "file": "docs/Technique/Two pointer.md"
               }
             }
           }
@@ -148,35 +161,36 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d6f5cec72794bc70",
+  "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Techniques/Geometry.md",
-    "docs/Techniques/1. Priority.md",
-    "docs/Techniques/Math.md",
-    "docs/Techniques/Binary.md",
-    "docs/Techniques/Dynamic Programming.md",
-    "docs/Techniques/Interval.md",
-    "docs/Techniques/Trie.md",
-    "docs/Techniques/Heap.md",
-    "docs/Techniques/Graph.md",
-    "docs/Techniques/Tree.md",
-    "docs/Techniques/Stack.md",
-    "docs/Techniques/Queue.md",
-    "docs/Techniques/Linked list.md",
-    "docs/Techniques/Matrix.md",
-    "docs/Techniques/Sorting and Searching.md",
-    "docs/Techniques/Recursion.md",
-    "docs/Techniques/Hash Table.md",
-    "docs/Techniques/String.md",
-    "docs/Techniques/Array.md",
+    "Goal Until March 2025.md",
+    "Note.md",
+    "docs/Technique/Two pointer.md",
+    "docs/Topic/1. Priority.md",
+    "docs/Technique",
+    "docs/Topic/Geometry.md",
+    "docs/Topic/Math.md",
+    "docs/Topic/Binary.md",
+    "docs/Topic/Dynamic Programming.md",
+    "docs/Topic/Interval.md",
+    "docs/Topic/Trie.md",
+    "docs/Topic/Heap.md",
+    "docs/Topic/Graph.md",
+    "docs/Topic/Tree.md",
+    "docs/Topic/Stack.md",
+    "docs/Topic/Queue.md",
+    "docs/Topic/Linked list.md",
+    "docs/Topic/Matrix.md",
+    "docs/Topic/Sorting and Searching.md",
+    "docs/Topic/Recursion.md",
+    "docs/Topic/Hash Table.md",
+    "docs/Topic/String.md",
+    "docs/Topic/Array.md",
     "docs/LC/223. Rectangle Area.md",
     "docs/Techniques/Untitled",
     "docs/Techniques/Index as hash key.md",
     "docs/LC/836. Rectangle Overlap.md",
     "docs/LC/273. Integer to English Words.md",
-    "docs/LC/69. Sqrt(x).md",
-    "docs/LC/50. Pow(x, n).md",
-    "docs/LC/136. Single Number.md",
     "docs/LC/Untitled",
     "docs/Template LC approach",
     "docs/SD",
@@ -195,7 +209,6 @@
     "docs/Media",
     "docs/LC",
     "docs/Project/Streaming Platform/services",
-    "docs/Project/Streaming Platform/Plan",
     "Untitled.canvas"
   ]
 }

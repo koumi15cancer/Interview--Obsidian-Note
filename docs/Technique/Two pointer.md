@@ -1,0 +1,1 @@
+- Consider using the two-pointer technique for questions that involve searching for a pair (or more) of items in an array that meet a certain criteria.
