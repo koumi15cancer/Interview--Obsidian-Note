@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Two pointer.md",
+                "file": "docs/Technique/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Two pointer.md",
+                "file": "docs/Technique/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Two pointer.md",
+                "file": "docs/Technique/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Two pointer.md"
+                "file": "docs/Technique/Sliding Window.md"
               }
             }
           }
@@ -163,12 +163,13 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Two pointer.md",
+    "docs/Technique/Sliding Window.md",
     "docs/Topic/Array.md",
     "docs/Topic/Recursion.md",
     "docs/Topic/Hash Table.md",
     "docs/Topic/String.md",
     "docs/Topic/Binary.md",
-    "docs/Technique/Two pointer.md",
     "Goal Until March 2025.md",
     "Note.md",
     "docs/Topic/1. Priority.md",
@@ -190,7 +191,6 @@
     "docs/Techniques/Untitled",
     "docs/Techniques/Index as hash key.md",
     "docs/LC/836. Rectangle Overlap.md",
-    "docs/LC/273. Integer to English Words.md",
     "docs/LC/Untitled",
     "docs/Template LC approach",
     "docs/SD",
