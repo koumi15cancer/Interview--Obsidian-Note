@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Intervals.md",
+                "file": "docs/Technique/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Intervals.md",
+                "file": "docs/Technique/Stack.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Intervals.md",
+                "file": "docs/Technique/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Intervals.md"
+                "file": "docs/Technique/Stack.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/Sliding Window.md",
     "docs/Technique/Intervals.md",
+    "docs/Technique/Stack.md",
+    "docs/Technique/Sliding Window.md",
     "docs/Technique/Two pointer.md",
     "docs/Topic/Array.md",
     "docs/Topic/Recursion.md",
@@ -190,7 +191,6 @@
     "docs/Topic/Sorting and Searching.md",
     "docs/LC/223. Rectangle Area.md",
     "docs/Techniques/Untitled",
-    "docs/Techniques/Index as hash key.md",
     "docs/LC/Untitled",
     "docs/Template LC approach",
     "docs/SD",
