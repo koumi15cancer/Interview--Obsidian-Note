@@ -12,3 +12,40 @@ In Python, the append and pop array methods can be used to push and pop elements
 # Monotonic Stack
 
 A **monotonic stack** is a special type of stack in which all elements on the stack are sorted in either descending or ascending order. It is used to solve problems that require finding the next greater or next smaller element in an array.
+
+##  Problem: Next Greater Element
+
+```python
+def nextGreaterElement(nums):
+  n = len(nums)
+  result = [-1] * n
+  stack = []
+
+  for i in range(n):
+    while stack and nums[i] > nums[stack[-1]]:
+      idx = stack.pop()
+      result[idx] = nums[i]
+    stack.append(i)
+
+  return result
+
+```
+
+## Next Smaller Element
+
+```python
+
+def nextSmallerElement(nums):
+  n = len(nums)
+  result = [-1] * n
+  stack = []
+
+  for i in range(n):
+    while stack and nums[i] < nums[stack[-1]]:
+      idx = stack.pop()
+      result[idx] = nums[i]
+    stack.append(i)
+
+  return result
+
+```
