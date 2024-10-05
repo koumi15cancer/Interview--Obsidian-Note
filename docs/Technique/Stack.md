@@ -6,4 +6,9 @@ Elements that are added to the stack are said to be "pushed" onto the stack, whi
 
 Arrays are frequently used to implement stacks, with the end of the array acting as the top of the stack.
 
-In Python, the append and pop array methods can be used to push and pop elements from the stack, respectively:
+In Python, the append and pop array methods can be used to push and pop elements from the stack
+
+
+# Monotonic Stack
+
+A **monotonic stack** is a special type of stack in which all elements on the stack are sorted in either descending or ascending order. It is used to solve problems that require finding the next greater or next smaller element in an array.
