@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Stack.md",
+                "file": "docs/Technique/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Stack.md",
+                "file": "docs/Technique/Linked List.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Stack.md",
+                "file": "docs/Technique/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Stack.md"
+                "file": "docs/Technique/Linked List.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/Intervals.md",
     "docs/Technique/Stack.md",
+    "docs/Technique/Linked List.md",
+    "docs/Technique/Intervals.md",
     "docs/Technique/Sliding Window.md",
     "docs/Technique/Two pointer.md",
     "docs/Topic/Array.md",
@@ -189,7 +190,6 @@
     "docs/Topic/Linked list.md",
     "docs/Topic/Matrix.md",
     "docs/Topic/Sorting and Searching.md",
-    "docs/LC/223. Rectangle Area.md",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
     "docs/Template LC approach",
