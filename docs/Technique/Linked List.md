@@ -77,3 +77,71 @@ def reverse(head):
   return prev
 
 ```
+
+## 3. Merging Two Linked Lists
+
+The last operation is merging two linked lists. As an example of this operation, we'll look at how to merge two sorted linked lists.
+
+As an input to this problem, we are given the heads of two sorted linked lists, l1 and l2, and we need to return the head of a new linked list that contains all the nodes from the two input linked lists in sorted order.
+
+To merge two sorted linked lists, we start by determining the head of the merged linked list by comparing the values of l1 and l2, and setting the head to the smaller of the two nodes. We then advance l1 = l1.next or l2 = l2.next depending on which node we chose as the head of the merged linked list.
+
+
+```python
+
+def merge_lists(l1, l2):
+  if not l1: return l2
+  if not l2: return l1
+
+  if l1.val < l2.val:
+    head = l1
+    l1 = l1.next
+  else:
+    head = l2
+    l2 = l2.next
+
+  tail = head
+  while l1 and l2:
+    if l1.val < l2.val:
+      tail.next = l1
+      l1 = l1.next
+    else:
+      tail.next = l2
+      l2 = l2.next
+    tail = tail.next
+
+  tail.next = l1 or l2
+  return head
+
+```
+
+## Dummy Nodes
+
+Merging two sorted linked lists is an example of a problem where using a dummy node can simplify the logic of the code.
+
+Notice that in the solution for merging two lists above, the logic for choosing the head of the merged linked list is the same as the logic for choosing the next node to append. We need to handle it as a special case because without it, we wouldn't have a starting point for the merged linked list.
+
+We can avoid this by creating a dummy node to represent the starting point of the merged linked list. This allows us to move directly into the iteration processes without having to introduce a special case to initialize the head of the merged linked list. When the iteration finishes we return dummy.next as the head of the merged linked list.
+
+Note: The term "dummy node" refers to creating a new node that isn't part of the input linked list(s) (line 2 in the code below).
+
+
+```python
+
+def merge_two_lists(l1, l2):
+  dummy = ListNode()
+  tail = dummy
+
+  while l1 and l2:
+    if l1.val < l2.val:
+      tail.next = l1
+      l1 = l1.next
+    else:
+      tail.next = l2
+      l2 = l2.next
+    tail = tail.next
+
+  tail.next = l1 or l2
+  return dummy.next
+
+```
