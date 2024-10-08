@@ -1,0 +1,1 @@
+Binary Search is efficient because it **repeatedly cuts the portion of the array that needs to be searched in half**.

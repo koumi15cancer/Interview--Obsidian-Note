@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Linked List.md",
+                "file": "docs/Technique/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Linked List.md",
+                "file": "docs/Technique/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Linked List.md",
+                "file": "docs/Technique/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Linked List.md"
+                "file": "docs/Technique/Binary Search.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/Stack.md",
     "docs/Technique/Linked List.md",
+    "docs/Technique/Binary Search.md",
+    "docs/Technique/Stack.md",
     "docs/Technique/Intervals.md",
     "docs/Technique/Sliding Window.md",
     "docs/Technique/Two pointer.md",
@@ -189,7 +190,6 @@
     "docs/Topic/Queue.md",
     "docs/Topic/Linked list.md",
     "docs/Topic/Matrix.md",
-    "docs/Topic/Sorting and Searching.md",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
     "docs/Template LC approach",
