@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Heaps.md",
+                "file": "docs/Topic/DFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Heaps.md",
+                "file": "docs/Topic/DFS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Heaps.md",
+                "file": "docs/Topic/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Heaps.md"
+                "file": "docs/Topic/DFS.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Heaps.md",
+    "docs/Topic/DFS.md",
     "Screenshot 2024-10-09 at 7.53.02 PM.png",
     "docs/Technique/Binary Search.md",
-    "docs/Technique/Heaps.md",
     "docs/Technique/Linked List.md",
     "docs/Technique/Stack.md",
     "docs/Technique/Intervals.md",
@@ -205,7 +206,6 @@
     "docs/Media/Using Azure Synapse Analytics for Data Ingestion.png",
     "docs/Media/Using Azure Synapse Analytics for Data Ingestion (1).png",
     "docs/Media/Using Azure Role-Based Access Control (RBAC) for Data Lake Security.png",
-    "docs/Media/Using Azure Key Vault to Secure Secrets in Azure Data Factory.png",
     "docs/Media",
     "docs/LC",
     "docs/Project/Streaming Platform/services",
