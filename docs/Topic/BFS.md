@@ -47,7 +47,49 @@ def bfs(root):
 
 ```
 
+```python
+from collections import deque
 
+class Solution:
+    def bfs_template(self, root: Optional[TreeNode]):
+        if not root:
+            return []
+
+        # Initialize the result list
+        result = []
+
+        # Initialize the queue with the root node
+        q = deque([root])
+
+        # Process the BFS level by level
+        while q:
+            # Get the number of nodes at the current level
+            level_size = len(q)
+            
+            # Initialize a list to store the nodes of the current level (optional, based on the problem)
+            current_level = []
+
+            # Process all nodes at the current level
+            for i in range(level_size):
+                # Pop the front node from the queue
+                curr_node = q.popleft()
+
+                # Process the current node (customize this step based on the problem)
+                current_level.append(curr_node.val)  # Example: storing node values
+
+                # Add the children of the current node to the queue for the next level
+                if curr_node.left:
+                    q.append(curr_node.left)
+                if curr_node.right:
+                    q.append(curr_node.right)
+
+            # Append the processed current level to the result (optional, based on the problem)
+            result.append(current_level)  # Example: level order traversal
+
+        return result
+
+
+```
 
 -------
 #### [Graphs](https://www.hellointerview.com/learn/code/breadth-first-search/graphs)
