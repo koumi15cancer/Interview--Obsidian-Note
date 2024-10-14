@@ -157,3 +157,143 @@ print(detector.has_cycle())  # Output: True (because the graph contains a cycle)
 ------
 
 ### Matrices 
+
+#### DFS on a Matrix
+
+DFS on a matrix is similar to DFS on an adjacency list. We still have to keep track of visited nodes, and we recursively call DFS on each neighbor of the current node.
+
+The main difference is that each cell can have at most 4 neighbors (up, down, left, right), and that we need to check if the neighbor is within the bounds of the grid before visiting it
+
+```python
+
+def dfs(matrix):
+  visited = set()
+  # up, down, left, right
+  directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+
+  def dfs_helper(r, c):
+    if (r, c) in visited:
+      return
+
+    # check if the cell is out of bounds
+    if r < 0 or r >= len(matrix) or c < 0 or c >= len(matrix[0]):
+      return
+
+    visited.add((r, c))
+    for dr, dc in directions:
+      dfs_helper(r + dr, c + dc)
+    return
+
+   dfs_helper(0, 0)
+
+```
+
+#### Example
+
+```python
+class Solution:
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+        directions = [(-1, 0), (1,0), (0,1), (0,-1)]
+        rows, cols = len(image), len(image[0])
+        visited = set()
+        x, y = sr, sc
+        base = image[x][y]
+
+        def dfs(x,y):
+            if (x,y) in visited:
+                return
+            visited.add((x,y))
+            image[x][y] = color
+            for cor_x, cor_y in directions:
+                new_x, new_y = x + cor_x, y + cor_y
+                if 0 <= new_x < rows and  0 <= new_y < cols and image[new_x][new_y] == base:
+                    dfs(new_x,new_y)
+        
+        dfs(x,y)
+        return image
+            
+
+
+```
+
+------------
+
+## Types of DFS
+
+### Connected Components
+
+These types of problems use DFS to identify the number of connected components in a graph. An example of this is finding the number of islands in a matrix, where each "1" represents a cell of land.
+
+- We traverse over each unvisited cell in the matrix.
+    
+- If the cell contains a 1, then we use DFS to traverse all land cells neighboring that cell (marking cells as visited as we go).
+    
+- When that completes, we have fully explored a single island, and we move onto the next island, which is the next unvisited cell in the matrix that contains a 1.
+
+
+```python
+from typing import List
+
+class Solution:
+    def connected_components(self, n: int, edges: List[List[int]]) -> List[List[int]]:
+        # Create an adjacency list
+        adj_list = [[] for _ in range(n)]
+        for u, v in edges:
+            adj_list[u].append(v)
+            adj_list[v].append(u)
+
+        visited = [False] * n
+        components = []
+
+        def dfs(node, component):
+            visited[node] = True
+            component.append(node)
+            for neighbor in adj_list[node]:
+                if not visited[neighbor]:
+                    dfs(neighbor, component)
+
+        for i in range(n):
+            if not visited[i]:
+                component = []
+                dfs(i, component)
+                components.append(component)
+
+        return components
+
+
+```
+
+### Boundary DFS
+
+These types of problems involve starting a DFS traversal from the boundary of a matrix. An example of this is finding all "1"s that are connected to the boundary of a matrix, which is a key step in solving the "Surronded Regions" problem:
+
+```python
+class Solution:
+    def boundary_dfs(self, grid: List[List[int]], sr: int, sc: int) -> List[Tuple[int, int]]:
+        rows, cols = len(grid), len(grid[0])
+        visited = set()
+        boundary = []
+
+        def dfs(x, y):
+            if (x, y) in visited or x < 0 or x >= rows or y < 0 or y >= cols:
+                return
+            
+            visited.add((x, y))
+            is_boundary = False
+            
+            for dx, dy in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+                new_x, new_y = x + dx, y + dy
+                # Check if the neighbor is out of bounds or is not part of the same component
+                if new_x < 0 or new_x >= rows or new_y < 0 or new_y >= cols or grid[new_x][new_y] != grid[x][y]:
+                    is_boundary = True
+                else:
+                    dfs(new_x, new_y)
+
+            if is_boundary:
+                boundary.append((x, y))
+
+        dfs(sr, sc)
+        return boundary
+
+
+```
