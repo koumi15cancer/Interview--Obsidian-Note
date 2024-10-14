@@ -100,3 +100,60 @@ def dfs(adjList):
 - If you encounter a node that has already been visited, return immediately without making any further recursive calls.
     
 - Use a for loop to iterate over each neighbor of the current node, and recursively call dfs on each neighbor.
+
+
+Graph Cycle Detection Algorithm Template
+
+```python
+from typing import List
+
+class GraphCycleDetector:
+    def __init__(self, n: int, edges: List[List[int]]):
+        self.n = n  # Number of nodes
+        self.edges = edges  # List of undirected edges
+        self.adj_list = [[] for _ in range(n)]  # Initialize adjacency list
+        self.visited = [False] * n  # To track visited nodes
+        
+        # Build the adjacency list
+        self.build_graph()
+
+    def build_graph(self):
+        """Builds the adjacency list for the graph from the list of edges."""
+        for u, v in self.edges:
+            self.adj_list[u].append(v)
+            self.adj_list[v].append(u)
+
+    def has_cycle(self) -> bool:
+        """Returns True if the graph contains a cycle, False otherwise."""
+        for node in range(self.n):
+            if not self.visited[node]:  # Only start DFS if the node hasn't been visited
+                if self.dfs(node, -1):  # Start DFS from the node, with no parent (-1)
+                    return True
+        return False
+
+    def dfs(self, node: int, parent: int) -> bool:
+        """Performs DFS and checks if there's a cycle in the graph."""
+        self.visited[node] = True
+        for neighbor in self.adj_list[node]:
+            if not self.visited[neighbor]:  # If the neighbor hasn't been visited
+                if self.dfs(neighbor, node):  # Recur for the neighbor
+                    return True
+            elif neighbor != parent:  # If the neighbor is visited and not the parent, it's a cycle
+                return True
+        return False
+
+# Example Usage:
+n = 5
+edges = [[0, 1], [1, 2], [2, 3], [1, 3], [3, 4]]  # Example edges with a cycle
+
+detector = GraphCycleDetector(n, edges)
+print(detector.has_cycle())  # Output: True (because the graph contains a cycle)
+
+
+```
+
+
+
+------
+
+### Matrices 
