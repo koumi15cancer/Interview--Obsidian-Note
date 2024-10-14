@@ -95,3 +95,5 @@ class Solution:
 #### [Graphs](https://www.hellointerview.com/learn/code/breadth-first-search/graphs)
 
 We then look at the two most common ways graphs are represented during the coding interview, and how to traverse both representations with BFS. Then we work through problems that give us practice with the different types of graph problems that are best solved using BFS.
+
+Just like with depth-first search, the most important thing to remember when implementing BFS on a graph is to keep track of visited nodes to avoid infinite loops. If we try to enqueue a node that has already been visited, we should skip it instead of adding it to the queue.
