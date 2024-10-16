@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Topic/BFS.md",
+                "file": "docs/Technique/Backtrack.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Topic/BFS.md",
+                "file": "docs/Technique/Backtrack.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Topic/BFS.md",
+                "file": "docs/Technique/Backtrack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Topic/BFS.md"
+                "file": "docs/Technique/Backtrack.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Topic/BFS.md",
+    "docs/Technique/Backtrack.md",
     "Screenshot 2024-10-14 at 7.09.50 PM.png",
     "docs/Topic/DFS.md",
-    "docs/Topic/BFS.md",
     "docs/Technique/Heaps.md",
     "Screenshot 2024-10-09 at 7.53.02 PM.png",
     "docs/Technique/Binary Search.md",
@@ -205,7 +206,6 @@
     "docs/Media/Using CI_CD for Azure Data Factory (1).png",
     "docs/Media/Using Azure Synapse Analytics for Data Ingestion.png",
     "docs/Media/Using Azure Synapse Analytics for Data Ingestion (1).png",
-    "docs/Media/Using Azure Role-Based Access Control (RBAC) for Data Lake Security.png",
     "docs/Media",
     "docs/LC",
     "docs/Project/Streaming Platform/services",

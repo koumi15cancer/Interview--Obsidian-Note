@@ -1,0 +1,1 @@
+Backtracking algorithms use [Depth-First Search](https://www.hellointerview.com/learn/code/depth-first-search/introduction) to search all possible paths for a solution to a path.
