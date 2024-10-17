@@ -44,3 +44,8 @@ def solve(matrix):
 
 
 ```
+
+
+## Solution-Space Trees
+
+In the Overview section, we use Depth-First Search to explore all valid root-to-leaf paths in a binary tree that we are given. In most backtracking problems, we won't be given an explicit tree to traverse. Instead, our algorithm needs to construct the tree based on the problem.
