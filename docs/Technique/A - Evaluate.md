@@ -1,1 +1,1 @@
-Weak: Backtrack
+Weak: Backtrack, Graph, DFS, BFS

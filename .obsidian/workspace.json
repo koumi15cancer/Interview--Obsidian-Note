@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/A - Evaluate.md",
+                "file": "docs/Technique/Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/A - Evaluate.md",
+                "file": "docs/Technique/Graph.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/A - Evaluate.md",
+                "file": "docs/Technique/Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/A - Evaluate.md"
+                "file": "docs/Technique/Graph.md"
               }
             }
           }
@@ -163,8 +163,11 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/Backtrack.md",
     "docs/Technique/A - Evaluate.md",
+    "docs/Technique/Graph.md",
+    "Screenshot 2024-10-18 at 1.04.21 PM.png",
+    "Screenshot 2024-10-18 at 1.03.25 PM.png",
+    "docs/Technique/Backtrack.md",
     "docs/Topic/BFS.md",
     "Screenshot 2024-10-14 at 7.09.50 PM.png",
     "docs/Topic/DFS.md",
@@ -190,8 +193,6 @@
     "docs/Topic/Dynamic Programming.md",
     "docs/Topic/Interval.md",
     "docs/Topic/Trie.md",
-    "docs/Topic/Heap.md",
-    "docs/Topic/Graph.md",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
     "docs/Template LC approach",
@@ -204,8 +205,6 @@
     "docs/Media/Using CI_CD for Azure Data Factory.png",
     "docs/Media/Using CI_CD for Azure Data Factory with ADF Tools.png",
     "docs/Media/Using CI_CD for Azure Data Factory (1).png",
-    "docs/Media/Using Azure Synapse Analytics for Data Ingestion.png",
-    "docs/Media/Using Azure Synapse Analytics for Data Ingestion (1).png",
     "docs/Media",
     "docs/LC",
     "docs/Project/Streaming Platform/services",
