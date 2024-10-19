@@ -56,3 +56,46 @@ The algorithm is as follows:
         
     
 4. Return the topological order.
+
+```python
+from collections import deque
+
+def topological_sort(adj_list, n):
+
+  # calculate indegree of each node
+
+  indegree = [0] * n
+
+  for u in adj_list:
+
+      for v in adj_list[u]:
+
+          indegree[v] += 1
+
+  # enqueue nodes with indegree 0
+
+  queue = deque([u for u in range(n) if indegree[u] == 0])
+
+  order = []
+
+  while queue:
+
+      u = queue.popleft()
+
+      order.append(u)
+
+      for v in adj_list[u]:
+
+          # decrement indegree of each neighbor
+
+          indegree[v] -= 1
+
+          # if neighbor's indegree is 0, enqueue it
+
+          if indegree[v] == 0:
+
+              queue.append(v)
+
+  return order
+
+```
