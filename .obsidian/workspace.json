@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Graph.md",
+                "file": "docs/Technique/A - Evaluate.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Graph.md",
+                "file": "docs/Technique/A - Evaluate.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Graph.md",
+                "file": "docs/Technique/A - Evaluate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Graph.md"
+                "file": "docs/Technique/A - Evaluate.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/A - Evaluate.md",
     "docs/Technique/Graph.md",
+    "docs/Technique/A - Evaluate.md",
     "Screenshot 2024-10-18 at 1.04.21 PM.png",
     "Screenshot 2024-10-18 at 1.03.25 PM.png",
     "docs/Technique/Backtrack.md",

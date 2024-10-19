@@ -1,1 +1,5 @@
-Weak: Backtrack, Graph, DFS, BFS
+Weak:
+-  Backtrack
+  - Graph - Topological sort
+- DFS
+- BFS
