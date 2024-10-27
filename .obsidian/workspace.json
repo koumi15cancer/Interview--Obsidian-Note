@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md",
+                "file": "docs/Technique/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md",
+                "file": "docs/Technique/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md",
+                "file": "docs/Technique/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md"
+                "file": "docs/Technique/Sliding Window.md"
               }
             }
           }
@@ -163,12 +163,12 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Dynamic Programming.md",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
     "Screenshot 2024-10-21 at 10.36.14 AM.png",
     "Screenshot 2024-10-21 at 10.35.36 AM.png",
     "docs/Technique/A - Evaluate.md",
-    "docs/Technique/Dynamic Programming.md",
     "docs/Technique/Graph.md",
     "Screenshot 2024-10-18 at 1.04.21 PM.png",
     "Screenshot 2024-10-18 at 1.03.25 PM.png",
@@ -205,7 +205,6 @@
     "docs/Jobs",
     "docs/Media/Securely Connecting Azure Databricks to Azure Data Lake Storage Gen2.png",
     "docs/Media/Using Shared Access Signatures (SAS) Tokens in Azure Data Lake Storage.png",
-    "docs/Media/Using Logic Apps to Ingest Data in Azure Data Factory.png",
     "docs/Media",
     "docs/LC",
     "docs/Project/Streaming Platform/services",
