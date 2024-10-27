@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Sliding Window.md",
+                "file": "docs/Technique/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Sliding Window.md",
+                "file": "docs/Technique/Stack.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Sliding Window.md",
+                "file": "docs/Technique/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Sliding Window.md"
+                "file": "docs/Technique/Stack.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Two pointer.md",
+    "docs/Technique/Sliding Window.md",
     "docs/Technique/Dynamic Programming.md",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
@@ -182,8 +184,6 @@
     "docs/Technique/Linked List.md",
     "docs/Technique/Stack.md",
     "docs/Technique/Intervals.md",
-    "docs/Technique/Sliding Window.md",
-    "docs/Technique/Two pointer.md",
     "docs/Topic/Array.md",
     "docs/Topic/Recursion.md",
     "docs/Topic/Hash Table.md",
