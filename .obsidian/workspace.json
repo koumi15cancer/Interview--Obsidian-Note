@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Linked List.md",
+                "file": "docs/SD/Chap 1/OSI Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Linked List.md",
+                "file": "docs/SD/Chap 1/OSI Model.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Linked List.md",
+                "file": "docs/SD/Chap 1/OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Linked List.md"
+                "file": "docs/SD/Chap 1/OSI Model.md"
               }
             }
           }
@@ -163,6 +163,15 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/SD/Chap 1/TCP and UDP.md",
+    "docs/SD/Chap 1/IP.md",
+    "docs/SD/Chap 1/DNS.md",
+    "docs/SD/Chap 1/OSI Model.md",
+    "docs/SD/Chap 1",
+    "docs/SD/SD questions.md",
+    "docs/Computer Science Fundamental/Indexes 2.md",
+    "docs/Computer Science Fundamental/Indexes.md",
+    "docs/Technique/Linked List.md",
     "docs/Technique/Greedy Algorithm.md",
     "docs/Technique/Stack.md",
     "docs/Technique/Two pointer.md",
@@ -183,21 +192,13 @@
     "docs/Technique/Heaps.md",
     "Screenshot 2024-10-09 at 7.53.02 PM.png",
     "docs/Technique/Binary Search.md",
-    "docs/Technique/Linked List.md",
     "docs/Technique/Intervals.md",
     "docs/Topic/Array.md",
     "docs/Topic/Recursion.md",
     "docs/Topic/Hash Table.md",
     "docs/Topic/String.md",
     "docs/Topic/Binary.md",
-    "Goal Until March 2025.md",
-    "Note.md",
-    "docs/Topic/1. Priority.md",
     "docs/Technique",
-    "docs/Topic/Geometry.md",
-    "docs/Topic/Math.md",
-    "docs/Topic/Dynamic Programming.md",
-    "docs/Topic/Interval.md",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
     "docs/Template LC approach",
@@ -208,7 +209,6 @@
     "docs/Media/Using Shared Access Signatures (SAS) Tokens in Azure Data Lake Storage.png",
     "docs/Media",
     "docs/LC",
-    "docs/Project/Streaming Platform/services",
     "Untitled.canvas"
   ]
 }
