@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Greedy Algorithm.md",
+                "file": "docs/Technique/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Greedy Algorithm.md",
+                "file": "docs/Technique/Linked List.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Greedy Algorithm.md",
+                "file": "docs/Technique/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Greedy Algorithm.md"
+                "file": "docs/Technique/Linked List.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/Stack.md",
     "docs/Technique/Greedy Algorithm.md",
+    "docs/Technique/Stack.md",
     "docs/Technique/Two pointer.md",
     "docs/Technique/Sliding Window.md",
     "docs/Technique/Dynamic Programming.md",
