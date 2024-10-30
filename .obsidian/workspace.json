@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SD/Chap 1/OSI Model.md",
+                "file": "docs/Interview/Behaviour Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SD/Chap 1/OSI Model.md",
+                "file": "docs/Interview/Behaviour Interview.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SD/Chap 1/OSI Model.md",
+                "file": "docs/Interview/Behaviour Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SD/Chap 1/OSI Model.md"
+                "file": "docs/Interview/Behaviour Interview.md"
               }
             }
           }
@@ -163,10 +163,11 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Interview/Note - Interview ask.md",
+    "docs/SD/Chap 1/OSI Model.md",
     "docs/SD/Chap 1/TCP and UDP.md",
     "docs/SD/Chap 1/IP.md",
     "docs/SD/Chap 1/DNS.md",
-    "docs/SD/Chap 1/OSI Model.md",
     "docs/SD/Chap 1",
     "docs/SD/SD questions.md",
     "docs/Computer Science Fundamental/Indexes 2.md",
@@ -197,7 +198,6 @@
     "docs/Topic/Recursion.md",
     "docs/Topic/Hash Table.md",
     "docs/Topic/String.md",
-    "docs/Topic/Binary.md",
     "docs/Technique",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
