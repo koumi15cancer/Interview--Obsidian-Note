@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md",
+                "file": "docs/Misa- Mock question.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1bc0586b4944284e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md",
+                "file": "docs/Misa- Mock question.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md",
+                "file": "docs/Misa- Mock question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md"
+                "file": "docs/Misa- Mock question.md"
               }
             }
           }
@@ -162,10 +161,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c5828280ed58f2cd",
+  "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/Behaviour Interview.md",
+    "docs/Misa- Mock question.md",
+    "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/Note - Interview ask.md",
     "docs/SD/Chap 1/OSI Model.md",
     "docs/SD/Chap 1/TCP and UDP.md",
@@ -198,7 +198,6 @@
     "docs/Technique/Binary Search.md",
     "docs/Technique/Intervals.md",
     "docs/Topic/Array.md",
-    "docs/Topic/Recursion.md",
     "docs/Technique",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
