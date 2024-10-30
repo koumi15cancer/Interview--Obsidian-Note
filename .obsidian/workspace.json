@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50271224975586
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1bc0586b4944284e",
@@ -161,8 +162,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1bd306eb3d470e76",
+  "active": "c5828280ed58f2cd",
   "lastOpenFiles": [
+    "docs/Interview/INTERVIEW PREPARE.md",
+    "docs/Interview/Behaviour Interview.md",
     "docs/Interview/Note - Interview ask.md",
     "docs/SD/Chap 1/OSI Model.md",
     "docs/SD/Chap 1/TCP and UDP.md",
@@ -196,8 +199,6 @@
     "docs/Technique/Intervals.md",
     "docs/Topic/Array.md",
     "docs/Topic/Recursion.md",
-    "docs/Topic/Hash Table.md",
-    "docs/Topic/String.md",
     "docs/Technique",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
