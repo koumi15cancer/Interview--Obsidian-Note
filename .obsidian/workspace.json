@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.50271224975586
   },
   "right": {
     "id": "1bc0586b4944284e",
@@ -163,8 +163,12 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Interview/Behaviour Interview.md",
+    "docs/Note - Interview Self.md",
+    "docs/Azure DE/14. Questions to ask about New Data Source.md",
     "docs/Misa- Mock question.md",
+    "docs/Azure DE/10. Azure Data Factory.md",
+    "docs/Azure DE/9. Data Lake Structure - Raw Layer.md",
+    "docs/Interview/Behaviour Interview.md",
     "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/Note - Interview ask.md",
     "docs/SD/Chap 1/OSI Model.md",
@@ -193,11 +197,7 @@
     "docs/Topic/BFS.md",
     "Screenshot 2024-10-14 at 7.09.50 PM.png",
     "docs/Topic/DFS.md",
-    "docs/Technique/Heaps.md",
     "Screenshot 2024-10-09 at 7.53.02 PM.png",
-    "docs/Technique/Binary Search.md",
-    "docs/Technique/Intervals.md",
-    "docs/Topic/Array.md",
     "docs/Technique",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
