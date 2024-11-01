@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Misa- Mock question.md",
+                "file": "docs/System Design Step.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Misa- Mock question.md",
+                "file": "docs/System Design Step.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Misa- Mock question.md",
+                "file": "docs/System Design Step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Misa- Mock question.md"
+                "file": "docs/System Design Step.md"
               }
             }
           }
@@ -165,7 +165,7 @@
   "lastOpenFiles": [
     "docs/Note - Interview Self.md",
     "docs/Azure DE/14. Questions to ask about New Data Source.md",
-    "docs/Misa- Mock question.md",
+    "docs/System Design Step.md",
     "docs/Azure DE/10. Azure Data Factory.md",
     "docs/Azure DE/9. Data Lake Structure - Raw Layer.md",
     "docs/Interview/Behaviour Interview.md",
