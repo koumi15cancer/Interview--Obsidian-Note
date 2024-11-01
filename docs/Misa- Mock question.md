@@ -1,8 +1,8 @@
 - self intro - 5'
 - Daily work ?
-- ---> Dig in indepth questions
+- ---> Dig in in depth questions
 
-
+Nhan xet : 
 ## Azure questions
 - Storage Account
 - Data Factory
