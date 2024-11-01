@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/System Design Step.md",
+                "file": "docs/Interview/INTERVIEW PREPARE.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.50271224975586
+    "width": 336.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "1bc0586b4944284e",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/System Design Step.md",
+                "file": "docs/Interview/INTERVIEW PREPARE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/System Design Step.md",
+                "file": "docs/Interview/INTERVIEW PREPARE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/System Design Step.md"
+                "file": "docs/Interview/INTERVIEW PREPARE.md"
               }
             }
           }
@@ -163,14 +164,21 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Interview/INTERVIEW-Questions based on resume.md",
+    "docs/Interview/Note - Interview kw.md",
+    "docs/Interview/Note - Interview Self.md",
+    "docs/Interview/Note - Interview exp.md",
+    "docs/Interview/Note - Interview Beha.md",
+    "docs/Interview/Note - Interview Basic.md",
+    "docs/Interview/Note - Interview ask.md",
+    "docs/Interview/Interview- mock.md",
+    "docs/Interview/INTERVIEW PREPARE.md",
+    "docs/Interview/Behaviour Interview.md",
+    "docs/Interview/System Design Step.md",
     "docs/Note - Interview Self.md",
     "docs/Azure DE/14. Questions to ask about New Data Source.md",
-    "docs/System Design Step.md",
     "docs/Azure DE/10. Azure Data Factory.md",
     "docs/Azure DE/9. Data Lake Structure - Raw Layer.md",
-    "docs/Interview/Behaviour Interview.md",
-    "docs/Interview/INTERVIEW PREPARE.md",
-    "docs/Interview/Note - Interview ask.md",
     "docs/SD/Chap 1/OSI Model.md",
     "docs/SD/Chap 1/TCP and UDP.md",
     "docs/SD/Chap 1/IP.md",
@@ -183,20 +191,13 @@
     "docs/Technique/Greedy Algorithm.md",
     "docs/Technique/Stack.md",
     "docs/Technique/Two pointer.md",
-    "docs/Technique/Sliding Window.md",
-    "docs/Technique/Dynamic Programming.md",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
     "Screenshot 2024-10-21 at 10.36.14 AM.png",
     "Screenshot 2024-10-21 at 10.35.36 AM.png",
-    "docs/Technique/A - Evaluate.md",
-    "docs/Technique/Graph.md",
     "Screenshot 2024-10-18 at 1.04.21 PM.png",
     "Screenshot 2024-10-18 at 1.03.25 PM.png",
-    "docs/Technique/Backtrack.md",
-    "docs/Topic/BFS.md",
     "Screenshot 2024-10-14 at 7.09.50 PM.png",
-    "docs/Topic/DFS.md",
     "Screenshot 2024-10-09 at 7.53.02 PM.png",
     "docs/Technique",
     "docs/Techniques/Untitled",
