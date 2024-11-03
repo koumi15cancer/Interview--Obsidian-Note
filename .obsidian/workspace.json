@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md",
+                "file": "docs/Technique/Trie - Prefix Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.50271224975586,
-    "collapsed": true
+    "width": 336.50271224975586
   },
   "right": {
     "id": "1bc0586b4944284e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md",
+                "file": "docs/Technique/Trie - Prefix Tree.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md",
+                "file": "docs/Technique/Trie - Prefix Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md"
+                "file": "docs/Technique/Trie - Prefix Tree.md"
               }
             }
           }
@@ -164,6 +163,9 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "Screenshot 2024-11-03 at 11.42.44 PM.png",
+    "docs/Interview/INTERVIEW PREPARE.md",
+    "docs/Technique/Trie - Prefix Tree.md",
     "docs/Interview/INTERVIEW-Questions based on resume.md",
     "docs/Interview/Note - Interview kw.md",
     "docs/Interview/Note - Interview Self.md",
@@ -172,7 +174,6 @@
     "docs/Interview/Note - Interview Basic.md",
     "docs/Interview/Note - Interview ask.md",
     "docs/Interview/Interview- mock.md",
-    "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/Behaviour Interview.md",
     "docs/Interview/System Design Step.md",
     "docs/Note - Interview Self.md",
@@ -189,8 +190,6 @@
     "docs/Computer Science Fundamental/Indexes.md",
     "docs/Technique/Linked List.md",
     "docs/Technique/Greedy Algorithm.md",
-    "docs/Technique/Stack.md",
-    "docs/Technique/Two pointer.md",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
     "Screenshot 2024-10-21 at 10.36.14 AM.png",
