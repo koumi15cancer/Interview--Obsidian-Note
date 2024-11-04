@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Trie - Prefix Tree.md",
+                "file": "docs/Technique/Prefix Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Trie - Prefix Tree.md",
+                "file": "docs/Technique/Prefix Sum.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Trie - Prefix Tree.md",
+                "file": "docs/Technique/Prefix Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Trie - Prefix Tree.md"
+                "file": "docs/Technique/Prefix Sum.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Trie - Prefix Tree.md",
+    "docs/Technique/Prefix Sum.md",
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
     "docs/Interview/INTERVIEW PREPARE.md",
-    "docs/Technique/Trie - Prefix Tree.md",
     "docs/Interview/INTERVIEW-Questions based on resume.md",
     "docs/Interview/Note - Interview kw.md",
     "docs/Interview/Note - Interview Self.md",
@@ -206,7 +207,6 @@
     "mkdocs.yml",
     "docs/Jobs",
     "docs/Media/Securely Connecting Azure Databricks to Azure Data Lake Storage Gen2.png",
-    "docs/Media/Using Shared Access Signatures (SAS) Tokens in Azure Data Lake Storage.png",
     "docs/Media",
     "docs/LC",
     "Untitled.canvas"
