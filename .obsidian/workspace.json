@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Prefix Sum.md",
+                "file": "docs/Technique/Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Prefix Sum.md",
+                "file": "docs/Technique/Matrices.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Prefix Sum.md",
+                "file": "docs/Technique/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Prefix Sum.md"
+                "file": "docs/Technique/Matrices.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/Trie - Prefix Tree.md",
     "docs/Technique/Prefix Sum.md",
+    "docs/Technique/Matrices.md",
+    "docs/Technique/Trie - Prefix Tree.md",
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
     "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/INTERVIEW-Questions based on resume.md",
@@ -190,7 +191,6 @@
     "docs/Computer Science Fundamental/Indexes 2.md",
     "docs/Computer Science Fundamental/Indexes.md",
     "docs/Technique/Linked List.md",
-    "docs/Technique/Greedy Algorithm.md",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
     "Screenshot 2024-10-21 at 10.36.14 AM.png",
