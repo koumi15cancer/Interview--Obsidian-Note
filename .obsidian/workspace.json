@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Matrices.md",
+                "file": "docs/Technique/Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Matrices.md",
+                "file": "docs/Technique/Heaps.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Matrices.md",
+                "file": "docs/Technique/Heaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Matrices.md"
+                "file": "docs/Technique/Heaps.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/Technique/Prefix Sum.md",
     "docs/Technique/Matrices.md",
+    "docs/Technique/Prefix Sum.md",
     "docs/Technique/Trie - Prefix Tree.md",
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
     "docs/Interview/INTERVIEW PREPARE.md",
