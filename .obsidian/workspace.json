@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md",
+                "file": "docs/Technique/DFS-Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md",
+                "file": "docs/Technique/DFS-Graph.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md",
+                "file": "docs/Technique/DFS-Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Dynamic Programming.md"
+                "file": "docs/Technique/DFS-Graph.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Dynamic Programming.md",
+    "docs/Technique/DFS-Graph.md",
     "docs/Technique/Binary Search.md",
     "docs/Technique/Graph.md",
     "docs/Technique/Backtrack.md",
@@ -188,8 +190,6 @@
     "docs/Azure DE/9. Data Lake Structure - Raw Layer.md",
     "docs/SD/Chap 1/OSI Model.md",
     "docs/SD/Chap 1/TCP and UDP.md",
-    "docs/SD/Chap 1/IP.md",
-    "docs/SD/Chap 1/DNS.md",
     "docs/SD/Chap 1",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
