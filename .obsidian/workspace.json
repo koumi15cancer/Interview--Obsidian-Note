@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md",
+                "file": "docs/Technique/Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.50271224975586,
-    "collapsed": true
+    "width": 336.50271224975586
   },
   "right": {
     "id": "1bc0586b4944284e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md",
+                "file": "docs/Technique/Intervals.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md",
+                "file": "docs/Technique/Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Interview/Behaviour Interview.md"
+                "file": "docs/Technique/Intervals.md"
               }
             }
           }
@@ -151,6 +150,7 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Interview/Behaviour Interview.md",
     "docs/Technique/Dynamic Programming.md",
     "docs/Technique/Matrices.md",
     "docs/Technique/DFS-Graph.md",
@@ -170,7 +170,6 @@
     "docs/Interview/Note - Interview Basic.md",
     "docs/Interview/Note - Interview ask.md",
     "docs/Interview/Interview- mock.md",
-    "docs/Interview/Behaviour Interview.md",
     "docs/Interview/System Design Step.md",
     "docs/Note - Interview Self.md",
     "docs/Azure DE/14. Questions to ask about New Data Source.md",
