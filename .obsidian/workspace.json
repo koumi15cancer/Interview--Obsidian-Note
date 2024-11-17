@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SD/Chap 1/Availability.md",
+                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SD/Chap 1/Availability.md",
+                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SD/Chap 1/Availability.md",
+                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SD/Chap 1/Availability.md"
+                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md"
               }
             }
           }
@@ -150,11 +150,21 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/SD/Chap 1/Storage.md",
-    "docs/SD/Chap 1/Scalability.md",
-    "docs/SD/Chap 1/Availability.md",
-    "docs/SD/Chap 1/LB.md",
-    "docs/SD/Chap 1/DNS.md",
+    "docs/SD/Chap 1/Networkd/OSI Model.md",
+    "docs/SD/Chap 1/Networkd/IP.md",
+    "docs/SD/Chap 2/DB + Storage/No SQL Database.md",
+    "docs/SD/Chap 1/Components",
+    "docs/SD/Chap 1/Features",
+    "docs/SD/Chap 1/Networkd",
+    "docs/SD/Chap 2",
+    "docs/SD/Chap 2/DB + Storage",
+    "docs/SD/Chap 2/DB + Storage/SQL Database.md",
+    "docs/SD/Chap 2/DB + Storage/Database and DBMS.md",
+    "docs/SD/Chap 1/Features/Availability.md",
+    "docs/SD/Chap 2/DB + Storage/Storage.md",
+    "docs/SD/Chap 1/Features/Scalability.md",
+    "docs/SD/Chap 1/Components/LB.md",
+    "docs/SD/Chap 1/Components/DNS.md",
     "docs/SD/SD questions.md",
     "docs/Technique/A - Evaluate.md",
     "docs/Technique/Backtrack.md",
@@ -172,11 +182,6 @@
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
     "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/INTERVIEW-Questions based on resume.md",
-    "docs/Interview/Note - Interview kw.md",
-    "docs/Interview/Note - Interview Self.md",
-    "docs/Interview/Note - Interview exp.md",
-    "docs/Interview/Note - Interview Beha.md",
-    "docs/Interview/Note - Interview Basic.md",
     "docs/SD/Chap 1",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
@@ -190,12 +195,7 @@
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
     "docs/Template LC approach",
-    "docs/SD",
-    "mkdocs.yml",
-    "docs/Jobs",
     "docs/Media/Securely Connecting Azure Databricks to Azure Data Lake Storage Gen2.png",
-    "docs/Media",
-    "docs/LC",
     "Untitled.canvas"
   ]
 }
