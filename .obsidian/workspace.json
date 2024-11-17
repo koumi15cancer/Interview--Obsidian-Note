@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SD Practice/1. Approaches and Step.md",
+                "file": "docs/Technique/XOR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SD Practice/1. Approaches and Step.md",
+                "file": "docs/Technique/XOR.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SD Practice/1. Approaches and Step.md",
+                "file": "docs/Technique/XOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SD Practice/1. Approaches and Step.md"
+                "file": "docs/Technique/XOR.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
-    "docs/SD Practice/URL Shortener.md",
     "docs/SD Practice/1. Approaches and Step.md",
+    "docs/SD Practice/URL Shortener.md",
     "docs/SD/Chap 1/Networkd/TCP and UDP.md",
     "docs/SD Practice",
     "docs/SD/Chap 1/Networkd/OSI Model.md",
