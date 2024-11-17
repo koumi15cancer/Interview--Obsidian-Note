@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md",
+                "file": "docs/SD Practice/1. Approaches and Step.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md",
+                "file": "docs/SD Practice/1. Approaches and Step.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md",
+                "file": "docs/SD Practice/1. Approaches and Step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SD/Chap 1/Networkd/TCP and UDP.md"
+                "file": "docs/SD Practice/1. Approaches and Step.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/SD Practice/URL Shortener.md",
+    "docs/SD Practice/1. Approaches and Step.md",
+    "docs/SD/Chap 1/Networkd/TCP and UDP.md",
+    "docs/SD Practice",
     "docs/SD/Chap 1/Networkd/OSI Model.md",
     "docs/SD/Chap 1/Networkd/IP.md",
     "docs/SD/Chap 2/DB + Storage/No SQL Database.md",
@@ -178,10 +182,7 @@
     "docs/Technique/Graph.md",
     "docs/Technique/Heaps.md",
     "docs/Technique/Prefix Sum.md",
-    "docs/Technique/Trie - Prefix Tree.md",
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
-    "docs/Interview/INTERVIEW PREPARE.md",
-    "docs/Interview/INTERVIEW-Questions based on resume.md",
     "docs/SD/Chap 1",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
@@ -194,7 +195,6 @@
     "docs/Technique",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
-    "docs/Template LC approach",
     "docs/Media/Securely Connecting Azure Databricks to Azure Data Lake Storage Gen2.png",
     "Untitled.canvas"
   ]
