@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Intervals.md",
+                "file": "docs/Technique/XOR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Intervals.md",
+                "file": "docs/Technique/XOR.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Intervals.md",
+                "file": "docs/Technique/XOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Intervals.md"
+                "file": "docs/Technique/XOR.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Intervals.md",
+    "docs/Technique/XOR.md",
     "docs/Interview/Behaviour Interview.md",
     "docs/Technique/Dynamic Programming.md",
     "docs/Technique/Matrices.md",
@@ -175,8 +177,6 @@
     "docs/Azure DE/14. Questions to ask about New Data Source.md",
     "docs/Azure DE/10. Azure Data Factory.md",
     "docs/Azure DE/9. Data Lake Structure - Raw Layer.md",
-    "docs/SD/Chap 1/OSI Model.md",
-    "docs/SD/Chap 1/TCP and UDP.md",
     "docs/SD/Chap 1",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
     "Screenshot 2024-10-21 at 10.36.59 AM.png",
