@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/XOR.md",
+                "file": "docs/Technique/Bitwise Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/XOR.md",
+                "file": "docs/Technique/Bitwise Operation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/XOR.md",
+                "file": "docs/Technique/Bitwise Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/XOR.md"
+                "file": "docs/Technique/Bitwise Operation.md"
               }
             }
           }
@@ -172,7 +172,7 @@
     "docs/SD/SD questions.md",
     "docs/Technique/A - Evaluate.md",
     "docs/Technique/Backtrack.md",
-    "docs/Technique/XOR.md",
+    "docs/Technique/Bitwise Operation.md",
     "docs/Technique/Intervals.md",
     "docs/Interview/Behaviour Interview.md",
     "docs/Technique/Dynamic Programming.md",
