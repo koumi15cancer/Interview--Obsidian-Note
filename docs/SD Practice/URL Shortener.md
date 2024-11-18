@@ -2,7 +2,7 @@
 
 Reference:
 - https://www.hellointerview.com/learn/system-design/answer-keys/bitly
-- 
+- https://www.youtube.com/watch?v=5V6Lam8GZo4&list=PLjTveVh7FakJOoY6GPZGWHHl4shhDT8iV&index=1
 
 1: Requirements
 - Functional Requirements:

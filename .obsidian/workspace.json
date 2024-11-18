@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SD Practice/URL Shortener.md",
+                "file": "docs/Technique/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SD Practice/URL Shortener.md",
+                "file": "docs/Technique/Stack.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SD Practice/URL Shortener.md",
+                "file": "docs/Technique/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SD Practice/URL Shortener.md"
+                "file": "docs/Technique/Stack.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/SD Practice/URL Shortener.md",
     "Screenshot 2024-11-18 at 1.57.52 PM.png",
     "Screenshot 2024-11-18 at 1.33.17 PM.png",
     "docs/SD Practice/1. Approaches and Step.md",
-    "docs/SD Practice/URL Shortener.md",
     "docs/Technique/Bitwise Operation.md",
     "docs/SD/Chap 1/Networkd/TCP and UDP.md",
     "docs/SD Practice",
@@ -192,7 +192,6 @@
     "Screenshot 2024-10-18 at 1.04.21 PM.png",
     "Screenshot 2024-10-18 at 1.03.25 PM.png",
     "Screenshot 2024-10-14 at 7.09.50 PM.png",
-    "Screenshot 2024-10-09 at 7.53.02 PM.png",
     "docs/Technique",
     "docs/Techniques/Untitled",
     "docs/LC/Untitled",
