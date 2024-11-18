@@ -3,6 +3,7 @@ Resources:
 - https://florian.github.io//xor-trick/
 - https://leetcode.com/discuss/study-guide/2960396/Bit-Manipulation-Guide-and-Tricks
 - https://leetcode.com/discuss/interview-question/3695233/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it
+- https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/
 
 There are 6 types of bitwise operators:
 
