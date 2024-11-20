@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Stack.md",
+                "file": "docs/Technique/Heaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Stack.md",
+                "file": "docs/Technique/Heaps.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Stack.md",
+                "file": "docs/Technique/Heaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Stack.md"
+                "file": "docs/Technique/Heaps.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "1bd306eb3d470e76",
   "lastOpenFiles": [
+    "docs/Technique/Stack.md",
     "docs/SD Practice/URL Shortener.md",
     "Screenshot 2024-11-18 at 1.57.52 PM.png",
     "Screenshot 2024-11-18 at 1.33.17 PM.png",
