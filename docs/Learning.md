@@ -1,3 +1,7 @@
+- https://interviewguide.dev/
+- https://www.greatfrontend.com/prepare
+- https://www.hellointerview.com/learn/code/heap/overview
+- 
 
 20 hours learning
 - **Deconstruct the skill**

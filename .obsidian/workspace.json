@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0083eb04a4d9316",
+        "id": "c1987602dbac0f56",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd306eb3d470e76",
+            "id": "5a613296fb089b6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/Heaps.md",
+                "file": "docs/Reading Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Technique/Heaps.md",
+                "file": "docs/Reading Resources.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Technique/Heaps.md",
+                "file": "docs/Reading Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Technique/Heaps.md"
+                "file": "docs/Reading Resources.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,8 +147,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1bd306eb3d470e76",
+  "active": "5a613296fb089b6f",
   "lastOpenFiles": [
+    "docs/Plan and Priority.md",
+    "docs/Reading Resources.md",
+    "docs/Learning.md",
+    "docs/Technique/Heaps.md",
     "docs/Technique/Stack.md",
     "docs/SD Practice/URL Shortener.md",
     "Screenshot 2024-11-18 at 1.57.52 PM.png",
@@ -180,10 +183,6 @@
     "docs/Interview/Behaviour Interview.md",
     "docs/Technique/Dynamic Programming.md",
     "docs/Technique/Matrices.md",
-    "docs/Technique/DFS-Graph.md",
-    "docs/Technique/Binary Search.md",
-    "docs/Technique/Graph.md",
-    "docs/Technique/Heaps.md",
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
     "docs/SD/Chap 1",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
