@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Technique/DFS-Graph.md",
+                "file": "docs/LC/0. Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS-Graph"
-            }
-          },
-          {
-            "id": "7c8a72b26a088ab0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "0. Template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/LC/0. Template.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0. Template"
             }
           },
           {
@@ -124,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/LC/0. Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 0. Template"
             }
           },
           {
@@ -149,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "docs/LC/0. Template.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0. Template"
             }
           }
         ]
@@ -172,8 +163,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7c8a72b26a088ab0",
+  "active": "5a613296fb089b6f",
   "lastOpenFiles": [
+    "docs/Technique/DFS-Graph.md",
+    "docs/LC/0. Template.md",
     "docs/Technique/Graph.md",
     "docs/Reading Resources.md",
     "docs/Plan and Priority.md",
@@ -206,8 +199,6 @@
     "docs/Technique/A - Evaluate.md",
     "docs/Technique/Backtrack.md",
     "docs/Technique/Intervals.md",
-    "docs/Interview/Behaviour Interview.md",
-    "docs/Technique/Dynamic Programming.md",
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
     "docs/SD/Chap 1",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
