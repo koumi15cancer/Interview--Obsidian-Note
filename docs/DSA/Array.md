@@ -33,4 +33,4 @@
 - [[Precomputation]]
 - [[Traversing from the right]]
 - [[Two pointers]]
-- [[Sliding Window]]
+- [[docs/Technique/Sliding Window]]
