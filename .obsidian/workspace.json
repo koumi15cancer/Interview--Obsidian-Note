@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Template LC approach/Sliding Window.md",
+                "file": "docs/LC/0. Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "0. Template"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Template LC approach/Sliding Window.md",
+                "file": "docs/LC/0. Template.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sliding Window"
+              "title": "Backlinks for 0. Template"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Template LC approach/Sliding Window.md",
+                "file": "docs/LC/0. Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sliding Window"
+              "title": "Outgoing links from 0. Template"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Template LC approach/Sliding Window.md"
+                "file": "docs/LC/0. Template.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sliding Window"
+              "title": "Outline of 0. Template"
             }
           }
         ]
@@ -165,11 +165,11 @@
   },
   "active": "5a613296fb089b6f",
   "lastOpenFiles": [
+    "docs/Template LC approach/Sliding Window.md",
     "docs/LC/0. Template.md",
     "docs/LC/567. Permutation in String.md",
     "docs/LC/209. Minimum Size Subarray Sum.md",
     "docs/Template LC approach/Two Pointers.md",
-    "docs/Template LC approach/Sliding Window.md",
     "docs/Template LC approach/Binary Search.md",
     "docs/Technique/DFS-Graph.md",
     "docs/Technique/Graph.md",
