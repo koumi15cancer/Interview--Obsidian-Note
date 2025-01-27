@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/0. Template.md",
+                "file": "docs/Technique/Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Template"
+              "title": "Linked List"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC/0. Template.md",
+                "file": "docs/Technique/Linked List.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. Template"
+              "title": "Backlinks for Linked List"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LC/0. Template.md",
+                "file": "docs/Technique/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0. Template"
+              "title": "Outgoing links from Linked List"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LC/0. Template.md"
+                "file": "docs/Technique/Linked List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Template"
+              "title": "Outline of Linked List"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "5a613296fb089b6f",
   "lastOpenFiles": [
-    "docs/Interview/Behaviour Interview.md",
     "docs/LC/0. Template.md",
+    "docs/Interview/Behaviour Interview.md",
     "docs/Template LC approach/Sliding Window.md",
     "docs/LC/567. Permutation in String.md",
     "docs/LC/209. Minimum Size Subarray Sum.md",
