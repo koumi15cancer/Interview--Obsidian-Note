@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md",
+                "file": "docs/Interview/Coding Interview mock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTERVIEW PREPARE"
+              "title": "Coding Interview mock"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md",
+                "file": "docs/Interview/Coding Interview mock.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for INTERVIEW PREPARE"
+              "title": "Backlinks for Coding Interview mock"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md",
+                "file": "docs/Interview/Coding Interview mock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from INTERVIEW PREPARE"
+              "title": "Outgoing links from Coding Interview mock"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Interview/INTERVIEW PREPARE.md"
+                "file": "docs/Interview/Coding Interview mock.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of INTERVIEW PREPARE"
+              "title": "Outline of Coding Interview mock"
             }
           }
         ]
@@ -165,6 +165,8 @@
   },
   "active": "5a613296fb089b6f",
   "lastOpenFiles": [
+    "docs/Interview/INTERVIEW PREPARE.md",
+    "docs/Interview/Coding Interview mock.md",
     "docs/Interview/Behaviour Interview.md",
     "docs/Technique/Linked List.md",
     "docs/LC/0. Template.md",
@@ -197,8 +199,6 @@
     "docs/SD/Chap 2/DB + Storage",
     "docs/SD/Chap 2/DB + Storage/SQL Database.md",
     "docs/SD/Chap 2/DB + Storage/Database and DBMS.md",
-    "docs/SD/Chap 1/Features/Availability.md",
-    "docs/SD/Chap 2/DB + Storage/Storage.md",
     "Screenshot 2024-11-03 at 11.42.44 PM.png",
     "docs/SD/Chap 1",
     "Screenshot 2024-10-21 at 10.37.29 AM.png",
