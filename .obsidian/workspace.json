@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Interview/Coding Interview mock.md",
+                "file": "docs/LC/0. Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding Interview mock"
+              "title": "0. Template"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "5a613296fb089b6f",
   "lastOpenFiles": [
-    "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/Coding Interview mock.md",
+    "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/Behaviour Interview.md",
     "docs/Technique/Linked List.md",
     "docs/LC/0. Template.md",
