@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LC/0. Template.md",
+                "file": "docs/Template LC approach/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Template"
+              "title": "Binary Search"
             }
           }
         ]
@@ -165,11 +165,11 @@
   },
   "active": "5a613296fb089b6f",
   "lastOpenFiles": [
+    "docs/LC/0. Template.md",
     "docs/Interview/Coding Interview mock.md",
     "docs/Interview/INTERVIEW PREPARE.md",
     "docs/Interview/Behaviour Interview.md",
     "docs/Technique/Linked List.md",
-    "docs/LC/0. Template.md",
     "docs/Template LC approach/Sliding Window.md",
     "docs/LC/567. Permutation in String.md",
     "docs/LC/209. Minimum Size Subarray Sum.md",
