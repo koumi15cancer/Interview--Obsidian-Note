@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Remind this week task.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",

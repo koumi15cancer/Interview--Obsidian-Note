@@ -1,1 +1,1 @@
-[] Learn go by test
+[ ] Learn go by test
