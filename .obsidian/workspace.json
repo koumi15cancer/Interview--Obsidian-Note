@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Interview/Coding Interview mock.md",
+                "file": "Remind this week task.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coding Interview mock"
+              "title": "Backlinks for Remind this week task"
             }
           },
           {
