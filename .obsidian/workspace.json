@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Remind this week task.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -197,18 +197,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Interview/Coding Interview mock.md"
+                "file": "Remind this week task.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Coding Interview mock"
+              "title": "Outline of Remind this week task"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
