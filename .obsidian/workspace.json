@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Definition"
             }
+          },
+          {
+            "id": "1d4a9a977e4d1a45",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -192,7 +205,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c5828280ed58f2cd",
+  "active": "1d4a9a977e4d1a45",
   "lastOpenFiles": [
     "Side Note Link.md",
     "Infra/Prometheus/Definition.md",
